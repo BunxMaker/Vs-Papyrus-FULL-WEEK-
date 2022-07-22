@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blastedBFholyshit.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beam instancia 10000" x="6" y="6" width="563" height="4677" frameX="-16" frameY="0" frameWidth="595" frameHeight="4677"/>
+	<SubTexture name="beam instancia 10001" x="575" y="6" width="595" height="4677"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF express Normal0000" x="6" y="6" width="334" height="204" frameX="0" frameY="0" frameWidth="334" frameHeight="209"/>
+	<SubTexture name="BF express Normal0001" x="382" y="6" width="334" height="204" frameX="0" frameY="0" frameWidth="334" frameHeight="209"/>
+	<SubTexture name="BF express Normal0002" x="6" y="252" width="333" height="209" frameX="0" frameY="0" frameWidth="334" frameHeight="209"/>
+	<SubTexture name="BF express Normal0003" x="381" y="252" width="333" height="209" frameX="0" frameY="0" frameWidth="334" frameHeight="209"/>
+</TextureAtlas>

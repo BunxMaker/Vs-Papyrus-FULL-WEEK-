@@ -1,0 +1,156 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle Papyrus Dance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				461,
+				22
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "PAPS LOSES loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-93
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pap note DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-56
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pap note LEFT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pap note UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pap note RIGHT0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-51
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Pap note MISSleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-93
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Pap note MISSdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				66
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Pap note MISSup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Pap note MISSright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				460,
+				112
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "PAPS LOSES?",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				461,
+				-146
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "PAPS LOSES confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bf Paps",
+	"position": [
+		-30,
+		0
+	],
+	"healthicon": "papyrus",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 4,
+	"noteskin": "papyrus",
+	"scale": 1
+}

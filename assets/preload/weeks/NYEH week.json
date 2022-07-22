@@ -1,0 +1,50 @@
+{
+	"storyName": "The great papyrus!!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "Paps",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Bad to the Bone",
+			"papyrus",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"Dating Fight",
+			"papyrus",
+			[
+				46,
+				113,
+				253
+			]
+		],
+		[
+			"Bone Brothers",
+			"papyrus",
+			[
+				46,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"Paps",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week Nyeh!"
+}

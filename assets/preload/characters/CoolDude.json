@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CoolPaps Idledance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				240,
+				-27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CoolPaps Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				184
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CoolPap Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				-186
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CoolPap Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-83,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CoolPap Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				125,
+				-50
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Pose",
+			"indices": [],
+			"name": "JOJO POSE PAPY"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				128,
+				-50
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "JOJO POSE PAPY",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cooldude",
+	"position": [
+		30,
+		0
+	],
+	"healthicon": "coolPaps",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		10
+	],
+	"sing_duration": 6.1,
+	"noteskin": "papyrus",
+	"scale": 1.1
+}

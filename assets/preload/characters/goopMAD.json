@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "goopstermad Idle"
+		},
+		{
+			"offsets": [
+				231,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gooptermad LEFT note"
+		},
+		{
+			"offsets": [
+				-36,
+				-167
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "goopstermad DOWN note"
+		},
+		{
+			"offsets": [
+				-120,
+				-28
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "goopstermad right note"
+		},
+		{
+			"offsets": [
+				-46,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "goopstermad Up note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goopMAD",
+	"position": [
+		-30,
+		10
+	],
+	"healthicon": "gaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-20,
+		-10
+	],
+	"sing_duration": 6.1,
+	"noteskin": "gaster",
+	"scale": 1
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Paps.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="camppaps instancia 10000" x="6" y="6" width="348" height="401" frameX="0" frameY="-5" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10001" x="363" y="6" width="351" height="401" frameX="0" frameY="-5" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10002" x="723" y="6" width="353" height="404" frameX="-2" frameY="-2" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10003" x="1085" y="6" width="351" height="404" frameX="-2" frameY="-2" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10004" x="1445" y="6" width="348" height="404" frameX="-3" frameY="-1" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10005" x="1802" y="6" width="349" height="403" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10006" x="2160" y="6" width="349" height="403" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10007" x="2518" y="6" width="347" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10008" x="2874" y="6" width="345" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10009" x="3228" y="6" width="349" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10010" x="3586" y="6" width="352" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10011" x="6" y="419" width="350" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10012" x="365" y="419" width="348" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10013" x="722" y="419" width="349" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10014" x="1080" y="419" width="349" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="camppaps instancia 10015" x="2518" y="6" width="347" height="402" frameX="-3" frameY="0" frameWidth="355" frameHeight="406"/>
+	<SubTexture name="menupapsyes instancia 10000" x="1438" y="419" width="346" height="396" frameX="0" frameY="-2" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10001" x="1793" y="419" width="349" height="396" frameX="0" frameY="-2" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10002" x="2151" y="419" width="351" height="397" frameX="-1" frameY="0" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10003" x="2511" y="419" width="350" height="397" frameX="-1" frameY="0" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10004" x="2870" y="419" width="346" height="395" frameX="-2" frameY="0" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10005" x="3225" y="419" width="347" height="395" frameX="-2" frameY="0" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10006" x="3581" y="419" width="347" height="393" frameX="-2" frameY="-2" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10007" x="6" y="830" width="346" height="393" frameX="-2" frameY="-2" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10008" x="361" y="830" width="344" height="393" frameX="-2" frameY="-2" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10009" x="714" y="830" width="347" height="393" frameX="-2" frameY="-2" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10010" x="1070" y="830" width="350" height="393" frameX="-2" frameY="-2" frameWidth="352" frameHeight="398"/>
+	<SubTexture name="menupapsyes instancia 10011" x="1429" y="830" width="349" height="393" frameX="-2" frameY="-2" frameWidth="352" frameHeight="398"/>
+</TextureAtlas>

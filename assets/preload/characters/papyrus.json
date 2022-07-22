@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle Papyrus Dance"
+		},
+		{
+			"offsets": [
+				31,
+				-14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Pap note LEFT"
+		},
+		{
+			"offsets": [
+				21,
+				-97
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Pap note DOWN"
+		},
+		{
+			"offsets": [
+				-7,
+				-48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Pap note RIGHT"
+		},
+		{
+			"offsets": [
+				108,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Pap note UP"
+		},
+		{
+			"offsets": [
+				-3,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "normal",
+			"loop": false,
+			"name": "Paps Start"
+		},
+		{
+			"offsets": [
+				-5,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "micFlip",
+			"loop": false,
+			"name": "pap micFlip"
+		},
+		{
+			"offsets": [
+				-2,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "confused",
+			"loop": false,
+			"name": "Confused paps"
+		},
+		{
+			"offsets": [
+				-6,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ego",
+			"loop": false,
+			"name": "ego paps"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "angry",
+			"loop": false,
+			"name": "angry"
+		},
+		{
+			"offsets": [
+				117,
+				-11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "greatness",
+			"loop": false,
+			"name": "Greatness"
+		},
+		{
+			"offsets": [
+				102,
+				-22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "great",
+			"loop": false,
+			"name": "greatness idle"
+		},
+		{
+			"offsets": [
+				102,
+				6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "challenge",
+			"loop": false,
+			"name": "Challenge paps"
+		},
+		{
+			"offsets": [
+				90,
+				35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "agyStomp",
+			"loop": true,
+			"name": "Paps angyStomp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Papyrus",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "papyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-190,
+		null
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"noteskin": "papyrus"
+}

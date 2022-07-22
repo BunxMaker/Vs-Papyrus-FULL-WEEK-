@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EXgaster idle"
+		},
+		{
+			"offsets": [
+				251,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EXgaster noteLEFT"
+		},
+		{
+			"offsets": [
+				-30,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EXgaster noteDOWN"
+		},
+		{
+			"offsets": [
+				231,
+				262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EXgaster noteUP"
+		},
+		{
+			"offsets": [
+				-120,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EXgaster noteRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EXGasterdark",
+	"position": [
+		-200,
+		-230
+	],
+	"healthicon": "EXgaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		13,
+		0
+	],
+	"camera_position": [
+		160,
+		-60
+	],
+	"sing_duration": 6.1,
+	"noteskin": "gaster",
+	"scale": 1
+}

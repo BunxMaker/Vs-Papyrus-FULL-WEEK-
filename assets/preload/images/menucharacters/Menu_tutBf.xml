@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_tutBf.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ded BF instancia 10000" x="6" y="6" width="478" height="271"/>
+	<SubTexture name="fall instancia 10000" x="493" y="6" width="494" height="319" frameX="-22" frameY="-16" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10001" x="996" y="6" width="490" height="319" frameX="-26" frameY="-16" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10002" x="1495" y="6" width="491" height="313" frameX="-35" frameY="-11" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10003" x="1995" y="6" width="492" height="313" frameX="-34" frameY="-11" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10004" x="2496" y="6" width="502" height="304" frameX="-31" frameY="-8" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10005" x="3007" y="6" width="497" height="304" frameX="-36" frameY="-8" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10006" x="3513" y="6" width="500" height="295" frameX="-39" frameY="-4" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10007" x="6" y="334" width="502" height="295" frameX="-37" frameY="-4" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10008" x="517" y="334" width="510" height="291" frameX="-26" frameY="-2" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10009" x="1036" y="334" width="503" height="291" frameX="-33" frameY="-2" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10010" x="1548" y="334" width="501" height="297" frameX="-27" frameY="0" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10011" x="2058" y="334" width="503" height="297" frameX="-25" frameY="0" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10012" x="2570" y="334" width="506" height="303" frameX="-10" frameY="-2" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10013" x="3085" y="334" width="498" height="303" frameX="-18" frameY="-2" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10014" x="3592" y="334" width="497" height="304" frameX="-11" frameY="-5" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10015" x="6" y="647" width="499" height="304" frameX="-9" frameY="-5" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10016" x="514" y="647" width="502" height="304" frameX="0" frameY="-12" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10017" x="1025" y="647" width="497" height="304" frameX="-5" frameY="-12" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10018" x="1531" y="647" width="494" height="307" frameX="-8" frameY="-19" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10019" x="2034" y="647" width="496" height="307" frameX="-6" frameY="-19" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10020" x="2539" y="647" width="499" height="310" frameX="-8" frameY="-23" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10021" x="3047" y="647" width="495" height="310" frameX="-12" frameY="-23" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10022" x="3551" y="647" width="496" height="316" frameX="-15" frameY="-18" frameWidth="539" frameHeight="335"/>
+	<SubTexture name="fall instancia 10023" x="6" y="972" width="492" height="316" frameX="-19" frameY="-18" frameWidth="539" frameHeight="335"/>
+</TextureAtlas>

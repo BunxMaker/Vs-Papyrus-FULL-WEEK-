@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "prus"
+		},
+		{
+			"offsets": [
+				-16,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ppLEFT"
+		},
+		{
+			"offsets": [
+				-40,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ppDOWN"
+		},
+		{
+			"offsets": [
+				10,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ppUP"
+		},
+		{
+			"offsets": [
+				212,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ppRIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				89
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ppCRACKEDLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				77
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ppCRACKEDDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				169
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ppCRACKEDUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				80
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "ppCRACKEDRIGHT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PaPatas",
+	"position": [
+		0,
+		210
+	],
+	"healthicon": "PaPatas",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		155,
+		155
+	],
+	"camera_position": [
+		30,
+		-110
+	],
+	"sing_duration": 6.1,
+	"noteskin": "",
+	"scale": 1
+}

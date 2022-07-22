@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bf Paps">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Idle Papyrus Dance0001" x="6" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0002" x="476" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0003" x="946" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0004" x="1416" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0005" x="1886" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0006" x="2356" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0007" x="2826" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0008" x="3296" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0009" x="3766" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0010" x="4236" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0011" x="4706" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0012" x="5176" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0013" x="5646" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="Idle Papyrus Dance0014" x="6116" y="6" width="458" height="754" frameX="-0" frameY="-0" frameWidth="458" frameHeight="754"/>
+<SubTexture name="PAPS LOSES confirm0001" x="6586" y="6" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0002" x="7467" y="6" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0003" x="8348" y="6" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0004" x="9229" y="6" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0005" x="10110" y="6" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0006" x="10991" y="6" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0007" x="11872" y="6" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0008" x="12753" y="6" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0009" x="6586" y="684" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0010" x="7467" y="684" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0011" x="8348" y="684" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0012" x="9229" y="684" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0013" x="10110" y="684" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0014" x="10991" y="684" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0015" x="11872" y="684" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0016" x="12753" y="684" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0017" x="6" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0018" x="887" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0019" x="1768" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0020" x="2649" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0021" x="3530" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0022" x="4411" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0023" x="5292" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0024" x="6173" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0025" x="7054" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0026" x="7935" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0027" x="8816" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0028" x="9697" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0029" x="10578" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0030" x="11459" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0031" x="12340" y="1362" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0032" x="6" y="2040" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0033" x="887" y="2040" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES confirm0034" x="1768" y="2040" width="869" height="666" frameX="-0" frameY="-0" frameWidth="869" frameHeight="666"/>
+<SubTexture name="PAPS LOSES loop 0001" x="2649" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0002" x="3530" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0003" x="4411" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0004" x="5292" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0005" x="6173" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0006" x="7054" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0007" x="7935" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0008" x="8816" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0009" x="9697" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0010" x="10578" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0011" x="11459" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0012" x="12340" y="2040" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0013" x="6" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0014" x="887" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0015" x="1768" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0016" x="2649" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0017" x="3530" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0018" x="4411" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0019" x="5292" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0020" x="6173" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0021" x="7054" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0022" x="7935" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0023" x="8816" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0024" x="9697" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0025" x="10578" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0026" x="11459" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0027" x="12340" y="2886" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0028" x="6" y="3732" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0029" x="887" y="3732" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0030" x="1768" y="3732" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0031" x="2649" y="3732" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0032" x="3530" y="3732" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0033" x="4411" y="3732" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES loop 0034" x="5292" y="3732" width="869" height="834" frameX="-0" frameY="-0" frameWidth="869" frameHeight="834"/>
+<SubTexture name="PAPS LOSES?! 0001" x="6173" y="3732" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0002" x="7241" y="3732" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0003" x="8309" y="3732" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0004" x="9377" y="3732" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0005" x="10445" y="3732" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0006" x="11513" y="3732" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0007" x="12581" y="3732" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0008" x="6" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0009" x="1074" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0010" x="2142" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0011" x="3210" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0012" x="4278" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0013" x="5346" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0014" x="6414" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0015" x="7482" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0016" x="8550" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0017" x="9618" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0018" x="10686" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0019" x="11754" y="4668" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0020" x="6" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0021" x="1074" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0022" x="2142" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0023" x="3210" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0024" x="4278" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0025" x="5346" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0026" x="6414" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0027" x="7482" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0028" x="8550" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0029" x="9618" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0030" x="10686" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0031" x="11754" y="5604" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0032" x="6" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0033" x="1074" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0034" x="2142" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0035" x="3210" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0036" x="4278" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0037" x="5346" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0038" x="6414" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0039" x="7482" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0040" x="8550" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0041" x="9618" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0042" x="10686" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0043" x="11754" y="6540" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0044" x="6" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0045" x="1074" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0046" x="2142" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0047" x="3210" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0048" x="4278" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0049" x="5346" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0050" x="6414" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0051" x="7482" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0052" x="8550" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0053" x="9618" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0054" x="10686" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0055" x="11754" y="7476" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0056" x="6" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0057" x="1074" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0058" x="2142" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0059" x="3210" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0060" x="4278" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0061" x="5346" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0062" x="6414" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0063" x="7482" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0064" x="8550" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0065" x="9618" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0066" x="10686" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0067" x="11754" y="8412" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0068" x="6" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0069" x="1074" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0070" x="2142" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0071" x="3210" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0072" x="4278" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0073" x="5346" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0074" x="6414" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0075" x="7482" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0076" x="8550" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0077" x="9618" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0078" x="10686" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0079" x="11754" y="9348" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0080" x="6" y="10284" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0081" x="1074" y="10284" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0082" x="2142" y="10284" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0083" x="3210" y="10284" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0084" x="4278" y="10284" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="PAPS LOSES?! 0085" x="5346" y="10284" width="1056" height="924" frameX="-0" frameY="-0" frameWidth="1056" frameHeight="924"/>
+<SubTexture name="Pap note DOWN0001" x="13221" y="1362" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0002" x="13221" y="2055" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0003" x="13221" y="2748" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0004" x="12822" y="4668" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0005" x="13241" y="4668" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0006" x="12822" y="5361" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0007" x="13241" y="5361" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0008" x="12822" y="6054" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0009" x="13241" y="6054" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0010" x="12822" y="6747" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0011" x="13241" y="6747" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0012" x="12822" y="7440" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0013" x="13241" y="7440" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0014" x="12822" y="8133" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0015" x="13241" y="8133" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0016" x="12822" y="8826" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0017" x="13241" y="8826" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0018" x="12822" y="9519" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0019" x="13241" y="9519" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note DOWN0020" x="12822" y="10212" width="407" height="681" frameX="-0" frameY="-0" frameWidth="407" frameHeight="681"/>
+<SubTexture name="Pap note RIGHT0001" x="13241" y="10212" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0002" x="6414" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0003" x="6832" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0004" x="7250" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0005" x="7668" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0006" x="8086" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0007" x="8504" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0008" x="8922" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0009" x="9340" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0010" x="9758" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0011" x="10176" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0012" x="10594" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0013" x="11012" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0014" x="11430" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0015" x="11848" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0016" x="12266" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note RIGHT0017" x="12684" y="10972" width="406" height="748" frameX="-0" frameY="-0" frameWidth="406" frameHeight="748"/>
+<SubTexture name="Pap note MISSdown0001" x="13102" y="10972" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0002" x="6" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0003" x="472" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0004" x="938" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0005" x="1404" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0006" x="1870" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0007" x="2336" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0008" x="2802" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0009" x="3268" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0010" x="3734" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0011" x="4200" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0012" x="4666" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0013" x="5132" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0014" x="5598" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0015" x="13102" y="11665" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0016" x="6" y="12358" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0017" x="472" y="12358" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0018" x="938" y="12358" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0019" x="1404" y="12358" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSdown0020" x="1870" y="12358" width="454" height="681" frameX="-0" frameY="-0" frameWidth="454" frameHeight="681"/>
+<SubTexture name="Pap note MISSright0001" x="2336" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0002" x="2789" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0003" x="3242" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0004" x="3695" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0005" x="4148" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0006" x="4601" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0007" x="5054" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0008" x="5507" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0009" x="5960" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0010" x="6413" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0011" x="6866" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0012" x="7319" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0013" x="7772" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0014" x="8225" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0015" x="8678" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0016" x="9131" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSright0017" x="9584" y="12358" width="441" height="748" frameX="-0" frameY="-0" frameWidth="441" frameHeight="748"/>
+<SubTexture name="Pap note MISSleft0001" x="10037" y="12358" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0002" x="10532" y="12358" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0003" x="11027" y="12358" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0004" x="11522" y="12358" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0005" x="12017" y="12358" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0006" x="12512" y="12358" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0007" x="13007" y="12358" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0008" x="13634" y="6" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0009" x="13640" y="731" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0010" x="13640" y="1456" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0011" x="13640" y="2181" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0012" x="13640" y="2906" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0013" x="13649" y="3631" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0014" x="13660" y="4356" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSleft0015" x="13660" y="5081" width="483" height="713" frameX="-0" frameY="-0" frameWidth="483" frameHeight="713"/>
+<SubTexture name="Pap note MISSup0001" x="13660" y="5806" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0002" x="13660" y="6667" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0003" x="13660" y="7528" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0004" x="13660" y="8389" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0005" x="13660" y="9250" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0006" x="13660" y="10111" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0007" x="13568" y="10972" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0008" x="13568" y="11833" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0009" x="13502" y="12694" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0010" x="14135" y="6" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0011" x="14135" y="867" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0012" x="14135" y="1728" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0013" x="14135" y="2589" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0014" x="14144" y="3450" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0015" x="14155" y="4311" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0016" x="14158" y="5172" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0017" x="14158" y="6033" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0018" x="14158" y="6894" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0019" x="14158" y="7755" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note MISSup0020" x="14158" y="8616" width="486" height="849" frameX="-0" frameY="-0" frameWidth="486" frameHeight="849"/>
+<SubTexture name="Pap note LEFT0001" x="14158" y="9477" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0002" x="14158" y="10196" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0003" x="14158" y="10915" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0004" x="14066" y="11634" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0005" x="14066" y="12353" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0006" x="6" y="13072" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0007" x="485" y="13072" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0008" x="964" y="13072" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0009" x="1443" y="13072" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0010" x="14000" y="13072" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0011" x="6" y="13791" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0012" x="485" y="13791" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0013" x="964" y="13791" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0014" x="1443" y="13791" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note LEFT0015" x="1922" y="13791" width="467" height="707" frameX="-0" frameY="-0" frameWidth="467" frameHeight="707"/>
+<SubTexture name="Pap note UP0001" x="2401" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0002" x="2937" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0003" x="3473" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0004" x="4009" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0005" x="4545" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0006" x="5081" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0007" x="5617" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0008" x="6153" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0009" x="6689" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0010" x="7225" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0011" x="7761" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0012" x="8297" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0013" x="8833" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0014" x="9369" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0015" x="9905" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0016" x="10441" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0017" x="10977" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0018" x="11513" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0019" x="12049" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+<SubTexture name="Pap note UP0020" x="12585" y="13791" width="524" height="806" frameX="-0" frameY="-0" frameWidth="524" frameHeight="806"/>
+</TextureAtlas>

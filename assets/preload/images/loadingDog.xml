@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="loadingDog.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="loading dog0000" x="6" y="6" width="247" height="108" frameX="0" frameY="-109" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0001" x="6" y="6" width="247" height="108" frameX="0" frameY="-109" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0002" x="6" y="6" width="247" height="108" frameX="0" frameY="-109" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0003" x="259" y="6" width="244" height="195" frameX="-1" frameY="-22" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0004" x="509" y="6" width="244" height="206" frameX="-1" frameY="-11" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0005" x="759" y="6" width="239" height="216" frameX="-2" frameY="-1" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0006" x="6" y="228" width="239" height="217" frameX="-2" frameY="0" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0007" x="251" y="228" width="244" height="215" frameX="-1" frameY="-2" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0008" x="501" y="228" width="244" height="205" frameX="-1" frameY="-12" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0009" x="751" y="228" width="247" height="196" frameX="0" frameY="-21" frameWidth="247" frameHeight="217"/>
+	<SubTexture name="loading dog0010" x="6" y="6" width="247" height="108" frameX="0" frameY="-109" frameWidth="247" frameHeight="217"/>
+</TextureAtlas>

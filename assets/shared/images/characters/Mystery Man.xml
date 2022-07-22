@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mystery Man.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gaster Note DOWN instancia 10000" x="6" y="6" width="609" height="492" frameX="-16" frameY="-24" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10001" x="624" y="6" width="612" height="491" frameX="-13" frameY="-25" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10002" x="1245" y="6" width="622" height="472" frameX="0" frameY="-44" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10003" x="1876" y="6" width="622" height="472" frameX="0" frameY="-44" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10004" x="2507" y="6" width="616" height="491" frameX="-9" frameY="-25" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10005" x="3132" y="6" width="612" height="508" frameX="-16" frameY="-8" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10006" x="3753" y="6" width="611" height="512" frameX="-21" frameY="-4" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10007" x="4373" y="6" width="610" height="516" frameX="-25" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10008" x="4992" y="6" width="610" height="515" frameX="-26" frameY="-1" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10009" x="5611" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10010" x="6230" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10011" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10012" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10013" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10014" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10015" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10016" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10017" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10018" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10019" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10020" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10021" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10022" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10023" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10024" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10025" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10026" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note DOWN instancia 10027" x="6849" y="6" width="610" height="516" frameX="-26" frameY="0" frameWidth="636" frameHeight="516"/>
+	<SubTexture name="Gaster Note LEFT instancia 10000" x="7468" y="6" width="618" height="609" frameX="0" frameY="-7" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10001" x="6" y="624" width="613" height="609" frameX="-5" frameY="-7" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10002" x="628" y="624" width="623" height="609" frameX="-8" frameY="-6" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10003" x="628" y="624" width="623" height="609" frameX="-8" frameY="-6" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10004" x="1260" y="624" width="610" height="608" frameX="-40" frameY="-7" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10005" x="1879" y="624" width="604" height="614" frameX="-52" frameY="-1" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10006" x="2492" y="624" width="603" height="615" frameX="-60" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10007" x="3104" y="624" width="598" height="615" frameX="-67" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10008" x="3711" y="624" width="594" height="615" frameX="-72" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10009" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10010" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10011" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10012" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10013" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10014" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10015" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10016" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10017" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10018" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10019" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10020" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10021" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10022" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10023" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10024" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10025" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10026" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note LEFT instancia 10027" x="4314" y="624" width="591" height="615" frameX="-75" frameY="0" frameWidth="666" frameHeight="616"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10000" x="4914" y="624" width="632" height="588" frameX="-49" frameY="-29" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10001" x="5555" y="624" width="632" height="587" frameX="-49" frameY="-30" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10002" x="6196" y="624" width="627" height="582" frameX="-47" frameY="-35" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10003" x="6832" y="624" width="627" height="580" frameX="-47" frameY="-37" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10004" x="7468" y="624" width="614" height="605" frameX="-43" frameY="-12" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10005" x="6" y="1248" width="622" height="611" frameX="-24" frameY="-6" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10006" x="637" y="1248" width="620" height="609" frameX="-15" frameY="-8" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10007" x="1266" y="1248" width="622" height="616" frameX="-8" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10008" x="1897" y="1248" width="622" height="617" frameX="-4" frameY="0" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10009" x="2528" y="1248" width="623" height="615" frameX="-2" frameY="-2" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10010" x="3160" y="1248" width="623" height="612" frameX="0" frameY="-5" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10011" x="3792" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10012" x="4424" y="1248" width="623" height="614" frameX="0" frameY="-3" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10013" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10014" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10015" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10016" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10017" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10018" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10019" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10020" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10021" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10022" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10023" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10024" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10025" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10026" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note RIGHT instancia 10027" x="5056" y="1248" width="623" height="616" frameX="0" frameY="-1" frameWidth="681" frameHeight="617"/>
+	<SubTexture name="Gaster Note UP instancia 10000" x="5688" y="1248" width="578" height="847" frameX="0" frameY="0" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10001" x="6275" y="1248" width="578" height="847" frameX="0" frameY="0" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10002" x="6862" y="1248" width="577" height="839" frameX="-3" frameY="-8" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10003" x="7448" y="1248" width="577" height="839" frameX="-3" frameY="-8" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10004" x="6" y="2104" width="578" height="823" frameX="0" frameY="-24" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10005" x="593" y="2104" width="583" height="806" frameX="0" frameY="-42" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10006" x="1185" y="2104" width="581" height="802" frameX="-1" frameY="-46" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10007" x="1775" y="2104" width="577" height="797" frameX="-2" frameY="-50" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10008" x="2361" y="2104" width="575" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10009" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10010" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10011" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10012" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10013" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10014" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10015" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10016" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10017" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10018" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10019" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10020" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10021" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10022" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10023" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10024" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gaster Note UP instancia 10025" x="2945" y="2104" width="574" height="795" frameX="-1" frameY="-52" frameWidth="583" frameHeight="848"/>
+	<SubTexture name="Gasters Idle instancia 10000" x="3528" y="2104" width="426" height="718" frameX="-7" frameY="0" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10001" x="3963" y="2104" width="427" height="717" frameX="-7" frameY="-1" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10002" x="4399" y="2104" width="433" height="713" frameX="-7" frameY="-4" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10003" x="4841" y="2104" width="437" height="709" frameX="-7" frameY="-8" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10004" x="5287" y="2104" width="438" height="702" frameX="-7" frameY="-15" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10005" x="5734" y="2104" width="440" height="695" frameX="-7" frameY="-22" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10006" x="6183" y="2104" width="443" height="686" frameX="-6" frameY="-31" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10007" x="6635" y="2104" width="447" height="677" frameX="-5" frameY="-40" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10008" x="7091" y="2104" width="450" height="668" frameX="-4" frameY="-49" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10009" x="7550" y="2104" width="451" height="662" frameX="-3" frameY="-55" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10010" x="6" y="2936" width="452" height="659" frameX="-2" frameY="-58" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10011" x="467" y="2936" width="451" height="656" frameX="-2" frameY="-61" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10012" x="927" y="2936" width="452" height="653" frameX="-1" frameY="-64" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10013" x="1388" y="2936" width="452" height="647" frameX="-1" frameY="-70" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10014" x="1849" y="2936" width="454" height="647" frameX="0" frameY="-70" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10015" x="2312" y="2936" width="454" height="646" frameX="0" frameY="-71" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10016" x="2775" y="2936" width="453" height="646" frameX="0" frameY="-71" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10017" x="3237" y="2936" width="453" height="650" frameX="-1" frameY="-67" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10018" x="3699" y="2936" width="452" height="653" frameX="-1" frameY="-64" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10019" x="4160" y="2936" width="452" height="656" frameX="-2" frameY="-61" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10020" x="4621" y="2936" width="453" height="659" frameX="-2" frameY="-58" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10021" x="5083" y="2936" width="450" height="662" frameX="-4" frameY="-55" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10022" x="5542" y="2936" width="448" height="668" frameX="-5" frameY="-49" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10023" x="5999" y="2936" width="444" height="676" frameX="-6" frameY="-41" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10024" x="6452" y="2936" width="440" height="685" frameX="-7" frameY="-32" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10025" x="6901" y="2936" width="438" height="695" frameX="-7" frameY="-22" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10026" x="7348" y="2936" width="437" height="702" frameX="-7" frameY="-15" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10027" x="6" y="3647" width="433" height="709" frameX="-7" frameY="-8" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10028" x="448" y="3647" width="429" height="713" frameX="-7" frameY="-4" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters Idle instancia 10029" x="886" y="3647" width="429" height="714" frameX="-7" frameY="-3" frameWidth="455" frameHeight="718"/>
+	<SubTexture name="Gasters nomic Idle instancia 10000" x="1324" y="3647" width="347" height="719" frameX="-7" frameY="0" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10001" x="1680" y="3647" width="347" height="718" frameX="-7" frameY="-1" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10002" x="2036" y="3647" width="347" height="714" frameX="-7" frameY="-4" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10003" x="2392" y="3647" width="347" height="710" frameX="-7" frameY="-8" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10004" x="2748" y="3647" width="347" height="703" frameX="-7" frameY="-15" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10005" x="3104" y="3647" width="347" height="696" frameX="-7" frameY="-22" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10006" x="3460" y="3647" width="348" height="687" frameX="-6" frameY="-31" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10007" x="3817" y="3647" width="350" height="678" frameX="-5" frameY="-40" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10008" x="4176" y="3647" width="352" height="669" frameX="-4" frameY="-49" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10009" x="4537" y="3647" width="354" height="663" frameX="-3" frameY="-55" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10010" x="4900" y="3647" width="356" height="660" frameX="-2" frameY="-58" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10011" x="5265" y="3647" width="357" height="657" frameX="-2" frameY="-61" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10012" x="5631" y="3647" width="359" height="654" frameX="-1" frameY="-64" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10013" x="5999" y="3647" width="360" height="648" frameX="0" frameY="-70" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10014" x="6368" y="3647" width="361" height="648" frameX="0" frameY="-70" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10015" x="6738" y="3647" width="361" height="646" frameX="0" frameY="-72" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10016" x="7108" y="3647" width="361" height="647" frameX="0" frameY="-71" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10017" x="7478" y="3647" width="359" height="651" frameX="-1" frameY="-67" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10018" x="6" y="4375" width="359" height="654" frameX="-1" frameY="-64" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10019" x="374" y="4375" width="357" height="657" frameX="-2" frameY="-61" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10020" x="740" y="4375" width="357" height="660" frameX="-2" frameY="-59" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10021" x="1106" y="4375" width="355" height="664" frameX="-3" frameY="-55" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10022" x="1470" y="4375" width="352" height="670" frameX="-4" frameY="-49" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10023" x="1831" y="4375" width="350" height="678" frameX="-5" frameY="-41" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10024" x="2190" y="4375" width="349" height="687" frameX="-6" frameY="-32" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10025" x="2548" y="4375" width="347" height="696" frameX="-7" frameY="-23" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10026" x="2904" y="4375" width="347" height="704" frameX="-7" frameY="-15" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10027" x="3260" y="4375" width="347" height="711" frameX="-7" frameY="-8" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10028" x="3616" y="4375" width="347" height="715" frameX="-7" frameY="-4" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="Gasters nomic Idle instancia 10029" x="3972" y="4375" width="347" height="716" frameX="-7" frameY="-3" frameWidth="361" frameHeight="719"/>
+	<SubTexture name="gaster_grbmic instancia 10000" x="4328" y="4375" width="347" height="718" frameX="0" frameY="0" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10001" x="4684" y="4375" width="468" height="718" frameX="0" frameY="0" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10002" x="5161" y="4375" width="451" height="718" frameX="0" frameY="0" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10003" x="5621" y="4375" width="449" height="718" frameX="0" frameY="0" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10004" x="6079" y="4375" width="446" height="718" frameX="0" frameY="0" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10005" x="6534" y="4375" width="442" height="718" frameX="0" frameY="0" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10006" x="6534" y="4375" width="442" height="718" frameX="0" frameY="0" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10007" x="6985" y="4375" width="447" height="716" frameX="0" frameY="-2" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10008" x="7441" y="4375" width="447" height="714" frameX="0" frameY="-4" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10009" x="6" y="5102" width="456" height="712" frameX="0" frameY="-6" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10010" x="471" y="5102" width="456" height="711" frameX="0" frameY="-7" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10011" x="936" y="5102" width="465" height="711" frameX="0" frameY="-7" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10012" x="1410" y="5102" width="469" height="710" frameX="0" frameY="-8" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10013" x="1888" y="5102" width="471" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10014" x="2368" y="5102" width="473" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10015" x="2850" y="5102" width="474" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10016" x="3333" y="5102" width="489" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10017" x="3333" y="5102" width="489" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10018" x="3831" y="5102" width="483" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10019" x="3831" y="5102" width="483" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10020" x="4323" y="5102" width="473" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10021" x="4805" y="5102" width="468" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10022" x="5282" y="5102" width="466" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10023" x="5757" y="5102" width="464" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10024" x="6230" y="5102" width="464" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10025" x="6703" y="5102" width="464" height="709" frameX="0" frameY="-9" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10026" x="7176" y="5102" width="464" height="710" frameX="0" frameY="-8" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10027" x="7649" y="5102" width="461" height="711" frameX="0" frameY="-7" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10028" x="6" y="5823" width="460" height="712" frameX="0" frameY="-6" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10029" x="475" y="5823" width="460" height="714" frameX="0" frameY="-4" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10030" x="944" y="5823" width="460" height="714" frameX="0" frameY="-4" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10031" x="1413" y="5823" width="460" height="714" frameX="0" frameY="-4" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10032" x="1413" y="5823" width="460" height="714" frameX="0" frameY="-4" frameWidth="489" frameHeight="718"/>
+	<SubTexture name="gaster_grbmic instancia 10033" x="1413" y="5823" width="460" height="714" frameX="0" frameY="-4" frameWidth="489" frameHeight="718"/>
+</TextureAtlas>

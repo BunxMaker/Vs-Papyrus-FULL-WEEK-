@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BG MK and dog.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bobpers 1 instancia 10000" x="6" y="6" width="1553" height="716" frameX="0" frameY="-78" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10001" x="6" y="6" width="1553" height="716" frameX="0" frameY="-78" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10002" x="1568" y="6" width="1520" height="760" frameX="-15" frameY="-34" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10003" x="1568" y="6" width="1520" height="760" frameX="-15" frameY="-34" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10004" x="6" y="775" width="1486" height="790" frameX="-37" frameY="-4" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10005" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10006" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10007" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10008" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10009" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10010" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10011" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10012" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+	<SubTexture name="Bobpers 1 instancia 10013" x="1501" y="775" width="1482" height="794" frameX="-40" frameY="0" frameWidth="1553" frameHeight="794"/>
+</TextureAtlas>

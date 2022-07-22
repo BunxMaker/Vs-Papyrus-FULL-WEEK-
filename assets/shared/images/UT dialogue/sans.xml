@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UT Dial.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sans bad0000" x="6" y="6" width="202" height="192"/>
+	<SubTexture name="sans closed0000" x="217" y="6" width="202" height="192"/>
+	<SubTexture name="sans comic0000" x="428" y="6" width="202" height="192"/>
+	<SubTexture name="sans normal0000" x="639" y="6" width="202" height="192"/>
+	<SubTexture name="sans wink0000" x="6" y="207" width="201" height="192"/>
+</TextureAtlas>

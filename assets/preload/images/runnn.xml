@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="runnn.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rumn instancia 10000" x="6" y="6" width="472" height="345" frameX="-2" frameY="-27" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10001" x="6" y="6" width="472" height="345" frameX="-2" frameY="-27" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10002" x="487" y="6" width="476" height="349" frameX="-8" frameY="-23" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10003" x="487" y="6" width="476" height="349" frameX="-8" frameY="-23" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10004" x="972" y="6" width="487" height="352" frameX="-18" frameY="-21" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10005" x="972" y="6" width="487" height="352" frameX="-18" frameY="-21" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10006" x="1468" y="6" width="490" height="351" frameX="-16" frameY="-22" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10007" x="1468" y="6" width="490" height="351" frameX="-16" frameY="-22" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10008" x="1967" y="6" width="487" height="346" frameX="-11" frameY="-27" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10009" x="2463" y="6" width="487" height="346" frameX="-11" frameY="-27" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10010" x="2959" y="6" width="490" height="367" frameX="-6" frameY="-6" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10011" x="3458" y="6" width="490" height="367" frameX="-6" frameY="-6" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10012" x="6" y="382" width="493" height="348" frameX="-2" frameY="0" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10013" x="508" y="382" width="493" height="348" frameX="-2" frameY="0" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10014" x="1010" y="382" width="497" height="354" frameX="0" frameY="-13" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10015" x="1516" y="382" width="500" height="339" frameX="-2" frameY="-27" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10016" x="1516" y="382" width="500" height="339" frameX="-2" frameY="-27" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10017" x="2025" y="382" width="505" height="344" frameX="-8" frameY="-23" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10018" x="2025" y="382" width="505" height="344" frameX="-8" frameY="-23" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10019" x="2539" y="382" width="500" height="345" frameX="-18" frameY="-21" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10020" x="2539" y="382" width="500" height="345" frameX="-18" frameY="-21" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10021" x="3048" y="382" width="499" height="343" frameX="-16" frameY="-22" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10022" x="3048" y="382" width="499" height="343" frameX="-16" frameY="-22" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10023" x="3556" y="382" width="495" height="338" frameX="-11" frameY="-27" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10024" x="6" y="745" width="495" height="338" frameX="-11" frameY="-27" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10025" x="510" y="745" width="494" height="359" frameX="-6" frameY="-6" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10026" x="1013" y="745" width="494" height="359" frameX="-6" frameY="-6" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10027" x="1516" y="745" width="485" height="354" frameX="-2" frameY="0" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10028" x="2010" y="745" width="485" height="354" frameX="-2" frameY="0" frameWidth="518" frameHeight="375"/>
+	<SubTexture name="rumn instancia 10029" x="2504" y="745" width="471" height="362" frameX="0" frameY="-13" frameWidth="518" frameHeight="375"/>
+</TextureAtlas>

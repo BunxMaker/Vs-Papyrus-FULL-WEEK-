@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dogstole.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOGSTOLE instancia 10000" x="6" y="6" width="252" height="171" frameX="0" frameY="-12" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10001" x="6" y="6" width="252" height="171" frameX="0" frameY="-12" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10002" x="6" y="6" width="252" height="171" frameX="0" frameY="-12" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10003" x="267" y="6" width="255" height="177" frameX="-3" frameY="-2" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10004" x="531" y="6" width="255" height="178" frameX="-3" frameY="0" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10005" x="267" y="6" width="255" height="177" frameX="-3" frameY="-2" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10006" x="6" y="193" width="283" height="154" frameX="-1" frameY="-29" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10007" x="298" y="193" width="279" height="159" frameX="-3" frameY="-24" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10008" x="298" y="193" width="279" height="159" frameX="-3" frameY="-24" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10009" x="586" y="193" width="255" height="178" frameX="-3" frameY="-3" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10010" x="586" y="193" width="255" height="178" frameX="-3" frameY="-2" frameWidth="284" frameHeight="183"/>
+	<SubTexture name="DOGSTOLE instancia 10011" x="586" y="193" width="255" height="178" frameX="-3" frameY="-3" frameWidth="284" frameHeight="183"/>
+</TextureAtlas>

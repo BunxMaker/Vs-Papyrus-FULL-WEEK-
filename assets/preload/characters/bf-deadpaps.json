@@ -1,0 +1,57 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				461,
+				22
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "PAPS LOSES loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				460,
+				112
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "PAPS LOSES?",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				461,
+				-146
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "PAPS LOSES confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bf Paps",
+	"position": [
+		-30,
+		0
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 4,
+	"noteskin": "",
+	"scale": 1
+}

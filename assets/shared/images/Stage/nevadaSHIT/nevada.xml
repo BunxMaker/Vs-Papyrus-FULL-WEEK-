@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nevada.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="nevada0001.png" x="6" y="6" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0002.png" x="3666" y="6" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0003.png" x="7326" y="6" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0004.png" x="6" y="3076" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0005.png" x="3666" y="3076" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0006.png" x="7326" y="3076" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0007.png" x="6" y="6146" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0008.png" x="3666" y="6146" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0009.png" x="7326" y="6146" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0010.png" x="10986" y="6" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0011.png" x="10986" y="3076" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+<SubTexture name="nevada0012.png" x="10986" y="6146" width="3648" height="3058" frameX="-0" frameY="-0" frameWidth="3648" frameHeight="3058"/>
+</TextureAtlas>

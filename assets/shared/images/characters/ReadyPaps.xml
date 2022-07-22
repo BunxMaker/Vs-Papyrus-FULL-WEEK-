@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ReadyPaps.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Challenge paps instancia 10000" x="6" y="6" width="756" height="733" frameX="-2" frameY="-13" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10001" x="768" y="6" width="758" height="733" frameX="0" frameY="-13" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10002" x="1532" y="6" width="750" height="743" frameX="-13" frameY="-3" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10003" x="2288" y="6" width="743" height="746" frameX="-23" frameY="0" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10004" x="3037" y="6" width="758" height="746" frameX="-9" frameY="0" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10005" x="3801" y="6" width="762" height="744" frameX="-6" frameY="-2" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10006" x="4569" y="6" width="757" height="744" frameX="-11" frameY="-2" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10007" x="5332" y="6" width="760" height="744" frameX="-8" frameY="-2" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10008" x="6098" y="6" width="760" height="744" frameX="-8" frameY="-2" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Challenge paps instancia 10009" x="6864" y="6" width="754" height="744" frameX="-14" frameY="-2" frameWidth="768" frameHeight="746"/>
+	<SubTexture name="Confused paps instancia 10000" x="7624" y="6" width="348" height="736" frameX="0" frameY="-16" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10001" x="6" y="758" width="346" height="738" frameX="-1" frameY="-14" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10002" x="358" y="758" width="337" height="742" frameX="-6" frameY="-10" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10003" x="701" y="758" width="337" height="742" frameX="-6" frameY="-10" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10004" x="1044" y="758" width="334" height="750" frameX="-7" frameY="-2" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10005" x="1384" y="758" width="335" height="752" frameX="-6" frameY="0" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10006" x="1725" y="758" width="335" height="752" frameX="-6" frameY="0" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10007" x="2066" y="758" width="336" height="751" frameX="-5" frameY="-1" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10008" x="2408" y="758" width="336" height="749" frameX="-5" frameY="-3" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10009" x="2750" y="758" width="336" height="749" frameX="-5" frameY="-3" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10010" x="3092" y="758" width="336" height="749" frameX="-5" frameY="-3" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10011" x="3434" y="758" width="336" height="749" frameX="-5" frameY="-3" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10012" x="3776" y="758" width="336" height="749" frameX="-5" frameY="-3" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Confused paps instancia 10013" x="4118" y="758" width="336" height="749" frameX="-5" frameY="-3" frameWidth="348" frameHeight="752"/>
+	<SubTexture name="Greatness instancia 10000" x="4460" y="758" width="456" height="719" frameX="-12" frameY="-22" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10001" x="4922" y="758" width="449" height="717" frameX="-21" frameY="-24" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10002" x="5377" y="758" width="440" height="729" frameX="-28" frameY="-12" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10003" x="5823" y="758" width="481" height="741" frameX="-28" frameY="0" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10004" x="6310" y="758" width="485" height="741" frameX="-24" frameY="0" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10005" x="6801" y="758" width="509" height="734" frameX="-20" frameY="-7" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10006" x="7316" y="758" width="516" height="730" frameX="-13" frameY="-11" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10007" x="6" y="1516" width="457" height="728" frameX="-8" frameY="-13" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10008" x="469" y="1516" width="451" height="728" frameX="-14" frameY="-13" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10009" x="926" y="1516" width="463" height="728" frameX="-2" frameY="-13" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10010" x="1395" y="1516" width="465" height="728" frameX="0" frameY="-13" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Greatness instancia 10011" x="1866" y="1516" width="458" height="728" frameX="-7" frameY="-13" frameWidth="529" frameHeight="741"/>
+	<SubTexture name="Paps Start instancia 10000" x="2330" y="1516" width="347" height="737" frameX="0" frameY="-16" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10001" x="2683" y="1516" width="345" height="739" frameX="-1" frameY="-14" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10002" x="3034" y="1516" width="335" height="743" frameX="-6" frameY="-10" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10003" x="3375" y="1516" width="335" height="743" frameX="-6" frameY="-10" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10004" x="3716" y="1516" width="334" height="750" frameX="-6" frameY="-3" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10005" x="4056" y="1516" width="335" height="753" frameX="-5" frameY="0" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10006" x="4397" y="1516" width="335" height="753" frameX="-5" frameY="0" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10007" x="4738" y="1516" width="335" height="751" frameX="-5" frameY="-2" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10008" x="5079" y="1516" width="335" height="750" frameX="-5" frameY="-3" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10009" x="5420" y="1516" width="335" height="750" frameX="-5" frameY="-3" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10010" x="5761" y="1516" width="335" height="750" frameX="-5" frameY="-3" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10011" x="6102" y="1516" width="335" height="750" frameX="-5" frameY="-3" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10012" x="6443" y="1516" width="335" height="750" frameX="-5" frameY="-3" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps Start instancia 10013" x="6784" y="1516" width="335" height="750" frameX="-5" frameY="-3" frameWidth="347" frameHeight="753"/>
+	<SubTexture name="Paps_rdDOWN instancia 10000" x="7125" y="1516" width="665" height="626" frameX="0" frameY="-34" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10001" x="7125" y="1516" width="665" height="626" frameX="0" frameY="-34" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10002" x="6" y="2275" width="635" height="653" frameX="-14" frameY="-7" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10003" x="6" y="2275" width="635" height="653" frameX="-14" frameY="-7" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10004" x="647" y="2275" width="618" height="659" frameX="-26" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10005" x="1271" y="2275" width="610" height="660" frameX="-33" frameY="0" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10006" x="1887" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10007" x="2502" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10008" x="3117" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10009" x="3117" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10010" x="3732" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10011" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10012" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10013" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10014" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10015" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10016" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10017" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10018" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10019" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10020" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10021" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10022" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10023" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10024" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10025" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10026" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10027" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10028" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdDOWN instancia 10029" x="4347" y="2275" width="609" height="659" frameX="-34" frameY="-1" frameWidth="665" frameHeight="660"/>
+	<SubTexture name="Paps_rdIdle instancia 10000" x="4962" y="2275" width="590" height="694" frameX="-22" frameY="-34" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10001" x="5558" y="2275" width="590" height="708" frameX="-22" frameY="-20" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10002" x="6154" y="2275" width="607" height="709" frameX="-15" frameY="-19" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10003" x="6767" y="2275" width="607" height="710" frameX="-15" frameY="-18" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10004" x="7380" y="2275" width="616" height="706" frameX="-14" frameY="-22" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10005" x="6" y="2991" width="616" height="707" frameX="-14" frameY="-21" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10006" x="628" y="2991" width="648" height="702" frameX="-9" frameY="-26" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10007" x="1282" y="2991" width="648" height="702" frameX="-9" frameY="-26" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10008" x="1936" y="2991" width="658" height="706" frameX="-6" frameY="-22" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10009" x="2600" y="2991" width="658" height="706" frameX="-6" frameY="-22" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10010" x="3264" y="2991" width="649" height="714" frameX="-1" frameY="-14" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10011" x="3919" y="2991" width="649" height="714" frameX="-1" frameY="-14" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10012" x="4574" y="2991" width="618" height="719" frameX="0" frameY="-9" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10013" x="5198" y="2991" width="618" height="719" frameX="0" frameY="-9" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10014" x="5822" y="2991" width="598" height="726" frameX="-8" frameY="-3" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10015" x="6426" y="2991" width="598" height="726" frameX="-8" frameY="-3" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10016" x="7030" y="2991" width="581" height="729" frameX="-20" frameY="0" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10017" x="6" y="3726" width="581" height="729" frameX="-20" frameY="0" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10018" x="593" y="3726" width="555" height="727" frameX="-39" frameY="-2" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10019" x="1154" y="3726" width="555" height="727" frameX="-39" frameY="-2" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10020" x="1715" y="3726" width="536" height="722" frameX="-57" frameY="-7" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10021" x="2257" y="3726" width="536" height="722" frameX="-57" frameY="-7" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10022" x="2799" y="3726" width="530" height="716" frameX="-61" frameY="-13" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10023" x="3335" y="3726" width="530" height="716" frameX="-61" frameY="-13" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10024" x="3871" y="3726" width="538" height="705" frameX="-52" frameY="-23" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10025" x="4415" y="3726" width="538" height="705" frameX="-52" frameY="-23" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10026" x="4959" y="3726" width="546" height="700" frameX="-44" frameY="-28" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10027" x="5511" y="3726" width="546" height="700" frameX="-44" frameY="-28" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10028" x="6063" y="3726" width="567" height="696" frameX="-35" frameY="-32" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdIdle instancia 10029" x="6636" y="3726" width="567" height="696" frameX="-35" frameY="-32" frameWidth="664" frameHeight="729"/>
+	<SubTexture name="Paps_rdLEFT instancia 10000" x="7209" y="3726" width="570" height="744" frameX="0" frameY="-13" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10001" x="7209" y="3726" width="570" height="744" frameX="0" frameY="-13" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10002" x="6" y="4476" width="551" height="754" frameX="-18" frameY="-3" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10003" x="6" y="4476" width="551" height="754" frameX="-18" frameY="-3" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10004" x="563" y="4476" width="559" height="757" frameX="-11" frameY="0" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10005" x="1128" y="4476" width="561" height="756" frameX="-10" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10006" x="1695" y="4476" width="562" height="756" frameX="-9" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10007" x="2263" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10008" x="2833" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10009" x="3403" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10010" x="3973" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10011" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10012" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10013" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10014" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10015" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10016" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10017" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10018" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10019" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10020" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10021" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10022" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10023" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10024" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10025" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10026" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10027" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10028" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdLEFT instancia 10029" x="4543" y="4476" width="564" height="756" frameX="-7" frameY="-1" frameWidth="571" frameHeight="757"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10000" x="5113" y="4476" width="624" height="680" frameX="-5" frameY="0" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10001" x="5113" y="4476" width="624" height="680" frameX="-5" frameY="0" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10002" x="5743" y="4476" width="617" height="680" frameX="-4" frameY="0" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10003" x="5743" y="4476" width="617" height="680" frameX="-4" frameY="0" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10004" x="6366" y="4476" width="617" height="679" frameX="-2" frameY="-1" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10005" x="6989" y="4476" width="621" height="677" frameX="0" frameY="-3" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10006" x="6" y="5239" width="621" height="674" frameX="0" frameY="-6" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10007" x="633" y="5239" width="624" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10008" x="1263" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10009" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10010" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10011" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10012" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10013" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10014" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10015" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10016" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10017" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10018" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10019" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10020" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10021" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10022" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10023" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10024" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10025" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10026" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10027" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdRIGHT instancia 10028" x="1894" y="5239" width="625" height="673" frameX="0" frameY="-7" frameWidth="629" frameHeight="680"/>
+	<SubTexture name="Paps_rdUP instancia 10000" x="2525" y="5239" width="444" height="819" frameX="-24" frameY="0" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10001" x="2525" y="5239" width="444" height="819" frameX="-24" frameY="0" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10002" x="2975" y="5239" width="467" height="806" frameX="-19" frameY="-13" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10003" x="2975" y="5239" width="467" height="806" frameX="-19" frameY="-13" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10004" x="3448" y="5239" width="487" height="793" frameX="-5" frameY="-26" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10005" x="3941" y="5239" width="492" height="790" frameX="-2" frameY="-29" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10006" x="4439" y="5239" width="495" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10007" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10008" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10009" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10010" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10011" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10012" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10013" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10014" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10015" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10016" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10017" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10018" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10019" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10020" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10021" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10022" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10023" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10024" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10025" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10026" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10027" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10028" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="Paps_rdUP instancia 10029" x="4940" y="5239" width="494" height="788" frameX="0" frameY="-31" frameWidth="495" frameHeight="819"/>
+	<SubTexture name="ego paps instancia 10000" x="5440" y="5239" width="334" height="750" frameX="-1" frameY="0" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10001" x="5780" y="5239" width="335" height="744" frameX="0" frameY="-6" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10002" x="6121" y="5239" width="334" height="738" frameX="0" frameY="-12" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10003" x="6461" y="5239" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10004" x="6801" y="5239" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10005" x="7141" y="5239" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10006" x="7481" y="5239" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10007" x="7821" y="5239" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10008" x="6" y="6064" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10009" x="346" y="6064" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10010" x="686" y="6064" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10011" x="1026" y="6064" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10012" x="1366" y="6064" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="ego paps instancia 10013" x="1706" y="6064" width="334" height="735" frameX="0" frameY="-15" frameWidth="335" frameHeight="750"/>
+	<SubTexture name="greatness idle instancia 10000" x="2046" y="6064" width="442" height="731" frameX="-7" frameY="0" frameWidth="449" frameHeight="731"/>
+	<SubTexture name="greatness idle instancia 10001" x="2494" y="6064" width="436" height="731" frameX="-13" frameY="0" frameWidth="449" frameHeight="731"/>
+	<SubTexture name="greatness idle instancia 10002" x="2936" y="6064" width="447" height="731" frameX="-2" frameY="0" frameWidth="449" frameHeight="731"/>
+	<SubTexture name="greatness idle instancia 10003" x="3389" y="6064" width="449" height="731"/>
+	<SubTexture name="greatness idle instancia 10004" x="3844" y="6064" width="442" height="731" frameX="-7" frameY="0" frameWidth="449" frameHeight="731"/>
+	<SubTexture name="greatness idle instancia 10005" x="4292" y="6064" width="431" height="731" frameX="-18" frameY="0" frameWidth="449" frameHeight="731"/>
+	<SubTexture name="greatness idle instancia 10006" x="4729" y="6064" width="425" height="731" frameX="-24" frameY="0" frameWidth="449" frameHeight="731"/>
+	<SubTexture name="greatness idle instancia 10007" x="5160" y="6064" width="429" height="731" frameX="-20" frameY="0" frameWidth="449" frameHeight="731"/>
+	<SubTexture name="greatness idle instancia 10008" x="5595" y="6064" width="430" height="731" frameX="-19" frameY="0" frameWidth="449" frameHeight="731"/>
+	<SubTexture name="greatness idle instancia 10009" x="6031" y="6064" width="437" height="731" frameX="-12" frameY="0" frameWidth="449" frameHeight="731"/>
+</TextureAtlas>

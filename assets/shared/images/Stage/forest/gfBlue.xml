@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfBlue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFisBlue 10000" x="6" y="6" width="299" height="420" frameX="0" frameY="-17" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10001" x="351" y="6" width="299" height="420" frameX="0" frameY="-17" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10002" x="696" y="6" width="307" height="435" frameX="0" frameY="-2" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10003" x="1049" y="6" width="307" height="435" frameX="0" frameY="-2" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10004" x="1402" y="6" width="308" height="437" frameX="-3" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10005" x="6" y="489" width="306" height="437" frameX="-6" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10006" x="358" y="489" width="303" height="437" frameX="-9" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10007" x="707" y="489" width="303" height="437" frameX="-9" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10008" x="1056" y="489" width="303" height="437" frameX="-9" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10009" x="1405" y="489" width="303" height="437" frameX="-9" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10010" x="6" y="972" width="303" height="437" frameX="-9" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10011" x="355" y="972" width="303" height="437" frameX="-9" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10012" x="704" y="972" width="303" height="437" frameX="-9" frameY="0" frameWidth="312" frameHeight="437"/>
+	<SubTexture name="GFisBlue 10013" x="1053" y="972" width="303" height="437" frameX="-9" frameY="0" frameWidth="312" frameHeight="437"/>
+</TextureAtlas>

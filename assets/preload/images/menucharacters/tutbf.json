@@ -1,0 +1,11 @@
+{
+	"idle_anim": "fall",
+	"image": "Menu_tutBf",
+	"position": [
+		131,
+		-60
+	],
+	"flipX": false,
+	"scale": 0.85,
+	"confirm_anim": "ded BF"
+}

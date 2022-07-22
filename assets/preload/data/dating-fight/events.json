@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				12000,
+				[
+					[
+						"Play Animation",
+						"micFlip",
+						"dad"
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Play Animation",
+						"challenge",
+						"dad"
+					]
+				]
+			],
+			[
+				60800,
+				[
+					[
+						"Play Animation",
+						"ego",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}

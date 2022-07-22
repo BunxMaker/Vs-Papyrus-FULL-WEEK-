@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Gasters Idle"
+		},
+		{
+			"offsets": [
+				248,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Gaster Note LEFT"
+		},
+		{
+			"offsets": [
+				90,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Gaster Note DOWN"
+		},
+		{
+			"offsets": [
+				74,
+				134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Gaster Note UP"
+		},
+		{
+			"offsets": [
+				30,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Gaster Note RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "nomic",
+			"fps": 24,
+			"name": "Gasters nomic Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				1
+			],
+			"anim": "grabM",
+			"fps": 24,
+			"name": "gaster_grbmic",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mystery Man",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "gaster",
+	"flip_x": false,
+	"healthbar_colors": [
+		101,
+		101,
+		141
+	],
+	"camera_position": [
+		-10,
+		-10
+	],
+	"sing_duration": 6.1,
+	"noteskin": "gaster",
+	"scale": 1
+}

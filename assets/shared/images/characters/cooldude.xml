@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cooldude.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CoolPap Note RIGHT0000" x="6" y="6" width="439" height="612"/>
+	<SubTexture name="CoolPap Note RIGHT0001" x="454" y="6" width="439" height="604" frameX="0" frameY="-8" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0002" x="454" y="6" width="439" height="604" frameX="0" frameY="-8" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0003" x="902" y="6" width="439" height="607" frameX="0" frameY="-5" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0004" x="1350" y="6" width="439" height="607" frameX="0" frameY="-5" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0005" x="1798" y="6" width="439" height="605" frameX="0" frameY="-7" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0006" x="2246" y="6" width="439" height="603" frameX="0" frameY="-9" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0007" x="2694" y="6" width="439" height="600" frameX="0" frameY="-12" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0008" x="3142" y="6" width="439" height="598" frameX="0" frameY="-14" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0009" x="3142" y="6" width="439" height="598" frameX="0" frameY="-14" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0010" x="3142" y="6" width="439" height="598" frameX="0" frameY="-14" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0011" x="3142" y="6" width="439" height="598" frameX="0" frameY="-14" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0012" x="3142" y="6" width="439" height="598" frameX="0" frameY="-14" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note RIGHT0013" x="3142" y="6" width="439" height="598" frameX="0" frameY="-14" frameWidth="439" frameHeight="612"/>
+	<SubTexture name="CoolPap Note UP0000" x="3590" y="6" width="406" height="867" frameX="-7" frameY="-7" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0001" x="4005" y="6" width="365" height="788" frameX="-48" frameY="-86" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0002" x="4379" y="6" width="365" height="752" frameX="-48" frameY="-122" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0003" x="4753" y="6" width="413" height="870" frameX="0" frameY="-4" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0004" x="5175" y="6" width="412" height="871" frameX="-1" frameY="-3" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0005" x="5596" y="6" width="412" height="871" frameX="-1" frameY="-3" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0006" x="6017" y="6" width="406" height="874" frameX="-7" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0007" x="6432" y="6" width="406" height="874" frameX="-7" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0008" x="6847" y="6" width="405" height="874" frameX="-8" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0009" x="7261" y="6" width="403" height="874" frameX="-10" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0010" x="7261" y="6" width="403" height="874" frameX="-10" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0011" x="7261" y="6" width="403" height="874" frameX="-10" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0012" x="7261" y="6" width="403" height="874" frameX="-10" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0013" x="7261" y="6" width="403" height="874" frameX="-10" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note UP0014" x="7261" y="6" width="403" height="874" frameX="-10" frameY="0" frameWidth="413" frameHeight="874"/>
+	<SubTexture name="CoolPap Note DOWN0000" x="6" y="889" width="691" height="514" frameX="-11" frameY="0" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0001" x="706" y="889" width="717" height="472" frameX="-3" frameY="-41" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0002" x="706" y="889" width="717" height="472" frameX="-3" frameY="-41" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0003" x="1432" y="889" width="728" height="442" frameX="0" frameY="-72" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0004" x="2169" y="889" width="728" height="443" frameX="-2" frameY="-70" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0005" x="2906" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0006" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0007" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0008" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0009" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0010" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0011" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0012" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0013" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPap Note DOWN0014" x="3644" y="889" width="729" height="445" frameX="-1" frameY="-68" frameWidth="730" frameHeight="514"/>
+	<SubTexture name="CoolPaps Idledance0000" x="4382" y="889" width="347" height="696" frameX="-2" frameY="-18" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0001" x="4382" y="889" width="347" height="696" frameX="-2" frameY="-18" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0002" x="4738" y="889" width="336" height="702" frameX="0" frameY="-12" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0003" x="4738" y="889" width="336" height="702" frameX="0" frameY="-12" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0004" x="5083" y="889" width="334" height="709" frameX="-1" frameY="-4" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0005" x="5083" y="889" width="334" height="709" frameX="-1" frameY="-4" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0006" x="5426" y="889" width="332" height="711" frameX="-2" frameY="-2" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0007" x="5767" y="889" width="332" height="713" frameX="-2" frameY="0" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0008" x="6108" y="889" width="338" height="713" frameX="-2" frameY="0" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0009" x="6108" y="889" width="338" height="713" frameX="-2" frameY="0" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0010" x="6455" y="889" width="343" height="713" frameX="-2" frameY="0" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0011" x="6455" y="889" width="343" height="713" frameX="-2" frameY="0" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0012" x="6455" y="889" width="343" height="713" frameX="-2" frameY="0" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Idledance0013" x="6807" y="889" width="349" height="713" frameX="-2" frameY="0" frameWidth="351" frameHeight="714"/>
+	<SubTexture name="CoolPaps Note LEFT0000" x="7165" y="889" width="448" height="678" frameX="-39" frameY="-10" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0001" x="7622" y="889" width="463" height="684" frameX="-22" frameY="-5" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0002" x="7622" y="889" width="463" height="684" frameX="-22" frameY="-5" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0003" x="6" y="1611" width="475" height="689" frameX="-5" frameY="0" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0004" x="6" y="1611" width="475" height="689" frameX="-5" frameY="0" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0005" x="490" y="1611" width="475" height="689" frameX="-2" frameY="0" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0006" x="974" y="1611" width="477" height="684" frameX="0" frameY="-5" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0007" x="1460" y="1611" width="475" height="680" frameX="-2" frameY="-9" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0008" x="1944" y="1611" width="472" height="680" frameX="-5" frameY="-9" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0009" x="1944" y="1611" width="472" height="680" frameX="-5" frameY="-9" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0010" x="1944" y="1611" width="472" height="680" frameX="-5" frameY="-9" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0011" x="1944" y="1611" width="472" height="680" frameX="-5" frameY="-9" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0012" x="1944" y="1611" width="472" height="680" frameX="-5" frameY="-9" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="CoolPaps Note LEFT0013" x="1944" y="1611" width="472" height="680" frameX="-5" frameY="-9" frameWidth="487" frameHeight="689"/>
+	<SubTexture name="JOJO POSE PAPY0000" x="2425" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0001" x="2425" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0002" x="2876" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0003" x="2876" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0004" x="3327" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0005" x="3327" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0006" x="3778" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0007" x="3778" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0008" x="4229" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0009" x="4229" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0010" x="4680" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0011" x="4680" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0012" x="5131" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0013" x="5131" y="1611" width="442" height="675"/>
+	<SubTexture name="JOJO POSE PAPY0014" x="5131" y="1611" width="442" height="675"/>
+</TextureAtlas>

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE LostPapy"
+		},
+		{
+			"offsets": [
+				32,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT LostPapy"
+		},
+		{
+			"offsets": [
+				65,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP LostPapy"
+		},
+		{
+			"offsets": [
+				59,
+				-279
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN LostPapy"
+		},
+		{
+			"offsets": [
+				-69,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT LostPapy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LostPaps",
+	"position": [
+		-130,
+		-250
+	],
+	"healthicon": "lostPapyrus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		70,
+		0
+	],
+	"sing_duration": 6.1,
+	"noteskin": "papyrus",
+	"scale": 1.1
+}

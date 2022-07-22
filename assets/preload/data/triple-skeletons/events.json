@@ -1,0 +1,201 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Transition Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1424.97055060862,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-blue"
+					],
+					[
+						"Change Character",
+						"dad",
+						"LostSans"
+					],
+					[
+						"BG Change",
+						"brokenHall",
+						""
+					]
+				]
+			],
+			[
+				13679.7172858428,
+				[
+					[
+						"Jumpscare Skeletons",
+						"sans",
+						""
+					]
+				]
+			],
+			[
+				97372.9876249223,
+				[
+					[
+						"Transition Static",
+						"gaster",
+						""
+					]
+				]
+			],
+			[
+				98702.9601388237,
+				[
+					[
+						"BG Change",
+						"lab",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"gaster"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-PFlipped"
+					]
+				]
+			],
+			[
+				103452.861974186,
+				[
+					[
+						"Transition Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115612.610672713,
+				[
+					[
+						"Transition Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				123117.455572585,
+				[
+					[
+						"Transition Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124542.426123193,
+				[
+					[
+						"Jumpscare Skeletons",
+						"gaster",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-Perspective"
+					]
+				]
+			],
+			[
+				171851.4484034,
+				[
+					[
+						"Transition Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				172801.428770472,
+				[
+					[
+						"Jumpscare Skeletons",
+						"papyrus",
+						""
+					]
+				]
+			],
+			[
+				172991.424843887,
+				[
+					[
+						"Change Character",
+						"dad",
+						"LostPapyrus"
+					],
+					[
+						"BG Change",
+						"snowdin",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				204026.418954009,
+				[
+					[
+						"Transition Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				278693.085620676,
+				[
+					[
+						"Transition Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				279859.752287342,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gaster"
+					],
+					[
+						"BG Change",
+						"lab",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-PFlipped"
+					]
+				]
+			]
+		]
+	}
+}

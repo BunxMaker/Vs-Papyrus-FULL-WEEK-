@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dedbf.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ded BF0000" x="6" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0000" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0001" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0002" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0003" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0004" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0005" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0006" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0007" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0008" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0009" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0010" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0011" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0012" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0013" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0014" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0015" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0016" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0017" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0018" x="490" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0019" x="974" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0020" x="1458" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0021" x="1942" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0022" x="2426" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0023" x="2910" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0024" x="3394" y="6" width="478" height="271"/>
+	<SubTexture name="ded bf death0025" x="6" y="283" width="478" height="271"/>
+	<SubTexture name="ded bf death0026" x="490" y="283" width="478" height="271"/>
+	<SubTexture name="ded bf death0027" x="974" y="283" width="478" height="271"/>
+	<SubTexture name="ded bf death0028" x="1458" y="283" width="478" height="271"/>
+	<SubTexture name="ded bf death0029" x="1942" y="283" width="478" height="271"/>
+	<SubTexture name="ded bf death0030" x="2426" y="283" width="478" height="271"/>
+	<SubTexture name="ded bf death0031" x="2910" y="283" width="478" height="271"/>
+	<SubTexture name="ded bf death0032" x="3394" y="283" width="478" height="271"/>
+	<SubTexture name="ded bf death0033" x="6" y="560" width="478" height="271"/>
+	<SubTexture name="ded bf death0034" x="490" y="560" width="478" height="271"/>
+	<SubTexture name="ded bf death0035" x="490" y="560" width="478" height="271"/>
+	<SubTexture name="ded bf death0036" x="490" y="560" width="478" height="271"/>
+	<SubTexture name="ded bf death0037" x="490" y="560" width="478" height="271"/>
+	<SubTexture name="ded bf death0038" x="490" y="560" width="478" height="271"/>
+	<SubTexture name="ded bf ded confirm0000" x="974" y="560" width="478" height="271" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0001" x="1458" y="560" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0002" x="1942" y="560" width="478" height="313"/>
+	<SubTexture name="ded bf ded confirm0003" x="2426" y="560" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0004" x="2910" y="560" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0005" x="3394" y="560" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0006" x="6" y="879" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0007" x="490" y="879" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0008" x="974" y="879" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0009" x="1458" y="879" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0010" x="1942" y="879" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0011" x="2426" y="879" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0012" x="2910" y="879" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0013" x="3394" y="879" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0014" x="6" y="1168" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0015" x="490" y="1168" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0016" x="974" y="1168" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0017" x="1458" y="1168" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0018" x="1942" y="1168" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0019" x="2426" y="1168" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0020" x="2910" y="1168" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0021" x="3394" y="1168" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0022" x="6" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0023" x="490" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0024" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0025" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0026" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0027" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0028" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0029" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0030" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0031" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0032" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded confirm0033" x="974" y="1457" width="478" height="283" frameX="0" frameY="0" frameWidth="478" frameHeight="313"/>
+	<SubTexture name="ded bf ded loop0000" x="1458" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0001" x="1942" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0002" x="1942" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0003" x="2426" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0004" x="2426" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0005" x="2910" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0006" x="2910" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0007" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0008" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0009" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0010" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0011" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0012" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0013" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0014" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0015" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0016" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0017" x="1458" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0018" x="1942" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0019" x="1942" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0020" x="2426" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0021" x="2426" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0022" x="2910" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0023" x="2910" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0024" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0025" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0026" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0027" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0028" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0029" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0030" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0031" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0032" x="3394" y="1457" width="478" height="271"/>
+	<SubTexture name="ded bf ded loop0033" x="3394" y="1457" width="478" height="271"/>
+</TextureAtlas>

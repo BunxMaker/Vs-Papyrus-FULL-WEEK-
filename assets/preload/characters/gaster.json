@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				68
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LEFT Gaster.exe",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-126
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DOWN Gaster.exe",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-54
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RIGHT Gaster.exe",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				148
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UP Gaster.exe",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "IDLE Gaster.exe"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gasterexe-shaded",
+	"position": [
+		-80,
+		-310
+	],
+	"healthicon": "gasterexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		0,
+		200
+	],
+	"camera_position": [
+		-60,
+		-120
+	],
+	"sing_duration": 6.1,
+	"noteskin": "gaster",
+	"scale": 1.2
+}

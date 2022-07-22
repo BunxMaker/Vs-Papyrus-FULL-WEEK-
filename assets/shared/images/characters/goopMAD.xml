@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goopMAD.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="goopstermad DOWN note instancia 10000" x="6" y="6" width="392" height="564" frameX="-18" frameY="0" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10001" x="407" y="6" width="389" height="480" frameX="0" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10002" x="805" y="6" width="378" height="476" frameX="-1" frameY="-88" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10003" x="1192" y="6" width="371" height="476" frameX="-4" frameY="-88" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10004" x="1572" y="6" width="355" height="475" frameX="-15" frameY="-89" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10005" x="1936" y="6" width="347" height="475" frameX="-23" frameY="-89" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10006" x="2292" y="6" width="339" height="480" frameX="-27" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10007" x="2640" y="6" width="334" height="480" frameX="-30" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10008" x="2983" y="6" width="335" height="480" frameX="-28" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10009" x="3327" y="6" width="337" height="480" frameX="-32" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10010" x="3673" y="6" width="336" height="480" frameX="-28" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10011" x="4018" y="6" width="335" height="480" frameX="-27" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10012" x="2983" y="6" width="335" height="480" frameX="-28" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10013" x="3327" y="6" width="337" height="480" frameX="-32" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad DOWN note instancia 10014" x="3673" y="6" width="336" height="480" frameX="-28" frameY="-84" frameWidth="410" frameHeight="564"/>
+	<SubTexture name="goopstermad Idle instancia 10000" x="4362" y="6" width="525" height="710" frameX="-16" frameY="-18" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10001" x="4896" y="6" width="515" height="713" frameX="-18" frameY="-15" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10002" x="5420" y="6" width="508" height="718" frameX="-16" frameY="-11" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10003" x="5937" y="6" width="505" height="720" frameX="-16" frameY="-9" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10004" x="6451" y="6" width="503" height="727" frameX="-12" frameY="-2" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10005" x="6963" y="6" width="497" height="729" frameX="-12" frameY="0" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10006" x="7469" y="6" width="510" height="726" frameX="-4" frameY="-3" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10007" x="6" y="744" width="507" height="720" frameX="-2" frameY="-9" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10008" x="522" y="744" width="512" height="718" frameX="-2" frameY="-11" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10009" x="1043" y="744" width="509" height="719" frameX="-2" frameY="-10" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10010" x="1561" y="744" width="516" height="720" frameX="0" frameY="-9" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10011" x="6" y="744" width="507" height="720" frameX="-2" frameY="-9" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10012" x="522" y="744" width="512" height="718" frameX="-2" frameY="-11" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Idle instancia 10013" x="2086" y="744" width="505" height="721" frameX="-6" frameY="-8" frameWidth="541" frameHeight="729"/>
+	<SubTexture name="goopstermad Up note instancia 10000" x="2600" y="744" width="445" height="806" frameX="0" frameY="-42" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10001" x="3054" y="744" width="428" height="846" frameX="-17" frameY="-1" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10002" x="3491" y="744" width="430" height="847" frameX="-17" frameY="0" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10003" x="3930" y="744" width="435" height="836" frameX="-12" frameY="-11" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10004" x="4374" y="744" width="424" height="831" frameX="-14" frameY="-16" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10005" x="4807" y="744" width="427" height="824" frameX="-14" frameY="-23" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10006" x="5243" y="744" width="427" height="826" frameX="-13" frameY="-21" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10007" x="5679" y="744" width="429" height="827" frameX="-13" frameY="-20" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10008" x="6117" y="744" width="424" height="828" frameX="-14" frameY="-19" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10009" x="6550" y="744" width="427" height="824" frameX="-14" frameY="-23" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10010" x="5243" y="744" width="427" height="826" frameX="-13" frameY="-21" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10011" x="5679" y="744" width="429" height="827" frameX="-13" frameY="-20" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10012" x="6117" y="744" width="424" height="828" frameX="-14" frameY="-19" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10013" x="6550" y="744" width="427" height="824" frameX="-14" frameY="-23" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad Up note instancia 10014" x="5243" y="744" width="427" height="826" frameX="-13" frameY="-21" frameWidth="447" frameHeight="848"/>
+	<SubTexture name="goopstermad right note instancia 10000" x="6986" y="744" width="637" height="665" frameX="-3" frameY="-44" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10001" x="6" y="1600" width="609" height="693" frameX="-5" frameY="-16" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10002" x="624" y="1600" width="617" height="703" frameX="-2" frameY="-6" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10003" x="1250" y="1600" width="604" height="709" frameX="-5" frameY="0" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10004" x="1863" y="1600" width="592" height="697" frameX="-5" frameY="-12" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10005" x="2464" y="1600" width="567" height="686" frameX="-4" frameY="-23" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10006" x="3040" y="1600" width="560" height="682" frameX="0" frameY="-27" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10007" x="3609" y="1600" width="554" height="683" frameX="-3" frameY="-26" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10008" x="4172" y="1600" width="558" height="682" frameX="-4" frameY="-27" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10009" x="4739" y="1600" width="553" height="683" frameX="-3" frameY="-26" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10010" x="5301" y="1600" width="561" height="682" frameX="0" frameY="-27" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10011" x="3609" y="1600" width="554" height="683" frameX="-3" frameY="-26" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10012" x="4172" y="1600" width="558" height="682" frameX="-4" frameY="-27" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10013" x="4739" y="1600" width="553" height="683" frameX="-3" frameY="-26" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="goopstermad right note instancia 10014" x="5301" y="1600" width="561" height="682" frameX="0" frameY="-27" frameWidth="640" frameHeight="709"/>
+	<SubTexture name="gooptermad LEFT note instancia 10000" x="5871" y="1600" width="575" height="708" frameX="-25" frameY="-18" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10001" x="6455" y="1600" width="599" height="727" frameX="-1" frameY="0" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10002" x="7063" y="1600" width="600" height="723" frameX="0" frameY="-4" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10003" x="6" y="2336" width="587" height="711" frameX="-11" frameY="-17" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10004" x="602" y="2336" width="578" height="714" frameX="-20" frameY="-14" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10005" x="1189" y="2336" width="571" height="693" frameX="-27" frameY="-34" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10006" x="1769" y="2336" width="567" height="673" frameX="-32" frameY="-54" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10007" x="2345" y="2336" width="560" height="669" frameX="-39" frameY="-58" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10008" x="2914" y="2336" width="562" height="670" frameX="-37" frameY="-57" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10009" x="3485" y="2336" width="562" height="671" frameX="-37" frameY="-56" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10010" x="4056" y="2336" width="562" height="671" frameX="-37" frameY="-56" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10011" x="4056" y="2336" width="562" height="671" frameX="-37" frameY="-56" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10012" x="4056" y="2336" width="562" height="671" frameX="-37" frameY="-56" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10013" x="4056" y="2336" width="562" height="671" frameX="-37" frameY="-56" frameWidth="600" frameHeight="728"/>
+	<SubTexture name="gooptermad LEFT note instancia 10014" x="4056" y="2336" width="562" height="671" frameX="-37" frameY="-56" frameWidth="600" frameHeight="728"/>
+</TextureAtlas>

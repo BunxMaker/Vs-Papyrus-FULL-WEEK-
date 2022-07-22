@@ -1,0 +1,145 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Paps_rdLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-112
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Paps_rdDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				95
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Paps_rdUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				-52
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Paps_rdRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				30
+			],
+			"anim": "normal",
+			"fps": 24,
+			"name": "Paps Start",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				31
+			],
+			"anim": "challenge",
+			"fps": 24,
+			"name": "Challenge paps",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-120,
+				29
+			],
+			"anim": "confused",
+			"fps": 24,
+			"name": "Confused paps",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				20
+			],
+			"anim": "greatness",
+			"fps": 24,
+			"name": "Greatness",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				10
+			],
+			"anim": "great",
+			"fps": 24,
+			"name": "greatness idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-124,
+				27
+			],
+			"anim": "ego",
+			"fps": 24,
+			"name": "ego paps",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Paps_rdIdle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ReadyPaps",
+	"position": [
+		-50,
+		40
+	],
+	"healthicon": "papsTwo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		20,
+		-60
+	],
+	"sing_duration": 6.1,
+	"noteskin": "papyrus",
+	"scale": 1
+}

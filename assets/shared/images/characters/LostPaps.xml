@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="LostPaps.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DOWN LostPapy0000" x="6" y="6" width="686" height="642" frameX="-129" frameY="-52" frameWidth="715" frameHeight="994"/>
+	<SubTexture name="DOWN LostPapy0001" x="701" y="6" width="686" height="616" frameX="-129" frameY="-78" frameWidth="715" frameHeight="994"/>
+	<SubTexture name="DOWN LostPapy0002" x="701" y="6" width="686" height="616" frameX="-129" frameY="-78" frameWidth="715" frameHeight="994"/>
+	<SubTexture name="DOWN LostPapy0003" x="1396" y="6" width="809" height="689" frameX="-6" frameY="-5" frameWidth="715" frameHeight="994"/>
+	<SubTexture name="DOWN LostPapy0004" x="2214" y="6" width="807" height="687" frameX="-8" frameY="-7" frameWidth="715" frameHeight="994"/>
+	<SubTexture name="DOWN LostPapy0005" x="3030" y="6" width="807" height="687" frameX="-8" frameY="-7" frameWidth="715" frameHeight="994"/>
+	<SubTexture name="DOWN LostPapy0006" x="3846" y="6" width="812" height="691" frameX="-3" frameY="-3" frameWidth="715" frameHeight="994"/>
+	<SubTexture name="DOWN LostPapy0007" x="4667" y="6" width="815" height="694"/>
+	<SubTexture name="DOWN LostPapy0008" x="5491" y="6" width="815" height="694"/>
+	<SubTexture name="DOWN LostPapy0009" x="6315" y="6" width="815" height="694"/>
+	<SubTexture name="DOWN LostPapy0010" x="6315" y="6" width="815" height="694"/>
+	<SubTexture name="DOWN LostPapy0011" x="6315" y="6" width="815" height="694"/>
+	<SubTexture name="DOWN LostPapy0012" x="6315" y="6" width="815" height="694"/>
+	<SubTexture name="DOWN LostPapy0013" x="6315" y="6" width="815" height="694"/>
+	<SubTexture name="DOWN LostPapy0014" x="6315" y="6" width="815" height="694"/>
+	<SubTexture name="IDLE LostPapy0000" x="7139" y="6" width="704" height="948" frameX="-19" frameY="-7" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0001" x="7139" y="6" width="704" height="948" frameX="-19" frameY="-7" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0002" x="6" y="963" width="704" height="941" frameX="-19" frameY="-15" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0003" x="6" y="963" width="704" height="941" frameX="-19" frameY="-15" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0004" x="719" y="963" width="709" height="943" frameX="-14" frameY="-12" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0005" x="1437" y="963" width="709" height="943" frameX="-14" frameY="-12" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0006" x="2155" y="963" width="720" height="942" frameX="-3" frameY="-13" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0007" x="2884" y="963" width="720" height="953" frameX="-3" frameY="-3" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0008" x="3613" y="963" width="720" height="956" frameX="-3" frameY="0" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0009" x="4342" y="963" width="723" height="953" frameX="0" frameY="-2" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0010" x="5074" y="963" width="718" height="952" frameX="-5" frameY="-3" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0011" x="5801" y="963" width="713" height="951" frameX="-10" frameY="-4" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0012" x="5801" y="963" width="713" height="951" frameX="-10" frameY="-4" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="IDLE LostPapy0013" x="6523" y="963" width="711" height="950" frameX="-12" frameY="-5" frameWidth="723" frameHeight="956"/>
+	<SubTexture name="LEFT LostPapy0000" x="7243" y="963" width="573" height="849" frameX="0" frameY="-24" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0001" x="6" y="1928" width="573" height="855" frameX="0" frameY="-18" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0002" x="6" y="1928" width="573" height="855" frameX="0" frameY="-18" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0003" x="588" y="1928" width="573" height="851" frameX="0" frameY="-22" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0004" x="1170" y="1928" width="573" height="857" frameX="0" frameY="-16" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0005" x="1752" y="1928" width="573" height="873"/>
+	<SubTexture name="LEFT LostPapy0006" x="2334" y="1928" width="573" height="869" frameX="0" frameY="-4" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0007" x="2916" y="1928" width="573" height="867" frameX="0" frameY="-6" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0008" x="3498" y="1928" width="573" height="861" frameX="0" frameY="-12" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0009" x="4080" y="1928" width="573" height="861" frameX="0" frameY="-12" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0010" x="4080" y="1928" width="573" height="861" frameX="0" frameY="-12" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0011" x="4080" y="1928" width="573" height="861" frameX="0" frameY="-12" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0012" x="4080" y="1928" width="573" height="861" frameX="0" frameY="-12" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0013" x="4080" y="1928" width="573" height="861" frameX="0" frameY="-12" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="LEFT LostPapy0014" x="4080" y="1928" width="573" height="861" frameX="0" frameY="-12" frameWidth="573" frameHeight="873"/>
+	<SubTexture name="RIGHT LostPapy0000" x="4662" y="1928" width="887" height="847" frameX="0" frameY="-23" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0001" x="5558" y="1928" width="880" height="855" frameX="-7" frameY="-15" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0002" x="6447" y="1928" width="880" height="855" frameX="-7" frameY="-15" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0003" x="6" y="2810" width="886" height="858" frameX="-1" frameY="-12" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0004" x="901" y="2810" width="886" height="860" frameX="-1" frameY="-10" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0005" x="1796" y="2810" width="886" height="860" frameX="-1" frameY="-10" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0006" x="2691" y="2810" width="884" height="870" frameX="-3" frameY="0" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0007" x="3584" y="2810" width="884" height="867" frameX="-3" frameY="-3" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0008" x="4477" y="2810" width="885" height="854" frameX="-2" frameY="-16" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0009" x="5371" y="2810" width="886" height="852" frameX="-1" frameY="-18" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0010" x="5371" y="2810" width="886" height="852" frameX="-1" frameY="-18" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0011" x="5371" y="2810" width="886" height="852" frameX="-1" frameY="-18" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0012" x="5371" y="2810" width="886" height="852" frameX="-1" frameY="-18" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0013" x="5371" y="2810" width="886" height="852" frameX="-1" frameY="-18" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="RIGHT LostPapy0014" x="5371" y="2810" width="886" height="852" frameX="-1" frameY="-18" frameWidth="887" frameHeight="870"/>
+	<SubTexture name="UP LostPapy0000" x="6266" y="2810" width="639" height="851" frameX="0" frameY="-23" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0001" x="6914" y="2810" width="639" height="856" frameX="0" frameY="-18" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0002" x="6914" y="2810" width="639" height="856" frameX="0" frameY="-18" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0003" x="6" y="3689" width="664" height="874" frameX="-1" frameY="0" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0004" x="679" y="3689" width="639" height="861" frameX="0" frameY="-13" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0005" x="1327" y="3689" width="639" height="861" frameX="0" frameY="-13" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0006" x="1975" y="3689" width="639" height="859" frameX="0" frameY="-15" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0007" x="2623" y="3689" width="638" height="858" frameX="-1" frameY="-16" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0008" x="3270" y="3689" width="638" height="858" frameX="-1" frameY="-16" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0009" x="3917" y="3689" width="638" height="858" frameX="-1" frameY="-16" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0010" x="3917" y="3689" width="638" height="858" frameX="-1" frameY="-16" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0011" x="3917" y="3689" width="638" height="858" frameX="-1" frameY="-16" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0012" x="3917" y="3689" width="638" height="858" frameX="-1" frameY="-16" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0013" x="3917" y="3689" width="638" height="858" frameX="-1" frameY="-16" frameWidth="665" frameHeight="874"/>
+	<SubTexture name="UP LostPapy0014" x="3917" y="3689" width="638" height="858" frameX="-1" frameY="-16" frameWidth="665" frameHeight="874"/>
+</TextureAtlas>

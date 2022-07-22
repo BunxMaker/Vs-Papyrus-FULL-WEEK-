@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gf,Sans & paps dance.png"><SubTexture name="Gf,Sans &amp; paps dance GfSansPapsDance0000" x="0" y="0" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0001" x="415" y="0" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0002" x="830" y="0" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0003" x="1245" y="0" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0004" x="1660" y="0" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0005" x="0" y="345" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0006" x="415" y="345" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0007" x="830" y="345" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0008" x="1245" y="345" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0009" x="1660" y="345" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0010" x="0" y="690" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0011" x="415" y="690" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0012" x="830" y="690" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0013" x="1245" y="690" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0014" x="1660" y="690" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0015" x="0" y="1035" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0016" x="415" y="1035" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0017" x="830" y="1035" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0018" x="1245" y="1035" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0019" x="1660" y="1035" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0020" x="0" y="1380" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0021" x="415" y="1380" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0022" x="830" y="1380" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0023" x="1245" y="1380" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0024" x="1660" y="1380" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0025" x="0" y="1725" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0026" x="415" y="1725" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0027" x="830" y="1725" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0028" x="1245" y="1725" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+<SubTexture name="GfSansPapsDance0029" x="1660" y="1725" width="415" height="345" frameX="0" frameY="0" frameWidth="415" frameHeight="345" />
+</TextureAtlas>

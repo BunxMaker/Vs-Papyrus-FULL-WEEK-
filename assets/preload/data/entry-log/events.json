@@ -1,0 +1,45 @@
+{
+	"song": {
+		"events": [
+			[
+				66000.0000000001,
+				[
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"1"
+					]
+				]
+			],
+			[
+				73781.2500000001,
+				[
+					[
+						"Change Character",
+						"dad",
+						"goopMAD"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-white"
+					]
+				],
+				null,
+				"Dings Note"
+			],
+			[
+				75000.0000000001,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.2"
+					]
+				],
+				null,
+				"Dings Note"
+			]
+		]
+	}
+}

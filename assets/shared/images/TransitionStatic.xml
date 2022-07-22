@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ASSS.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gastatic0000" x="6" y="6" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0001" x="959" y="6" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0002" x="1912" y="6" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0003" x="2865" y="6" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0004" x="3818" y="6" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0005" x="4771" y="6" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0006" x="5724" y="6" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0007" x="6677" y="6" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0008" x="6" y="552" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0009" x="959" y="552" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0010" x="1912" y="552" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0011" x="2865" y="552" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0012" x="3818" y="552" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0013" x="4771" y="552" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0014" x="5724" y="552" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0015" x="6677" y="552" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0016" x="6" y="1098" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0017" x="959" y="1098" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0018" x="1912" y="1098" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0019" x="2865" y="1098" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0020" x="3818" y="1098" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0021" x="4771" y="1098" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0022" x="5724" y="1098" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0023" x="6677" y="1098" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0024" x="6" y="1644" width="968" height="546"/>
+	<SubTexture name="gastatic0025" x="983" y="1644" width="968" height="546"/>
+	<SubTexture name="gastatic0026" x="1960" y="1644" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0027" x="2913" y="1644" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0028" x="3866" y="1644" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0029" x="4819" y="1644" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0030" x="5772" y="1644" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0031" x="6725" y="1644" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0032" x="6" y="2199" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0033" x="959" y="2199" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0034" x="1912" y="2199" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0035" x="2865" y="2199" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0036" x="3818" y="2199" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="gastatic0037" x="4771" y="2199" width="944" height="537" frameX="-24" frameY="-9" frameWidth="968" frameHeight="546"/>
+	<SubTexture name="transStatic0000" x="5724" y="2199" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0001" x="6676" y="2199" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0002" x="6" y="2745" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0003" x="958" y="2745" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0004" x="1910" y="2745" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0005" x="2862" y="2745" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0006" x="3814" y="2745" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0007" x="4766" y="2745" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0008" x="5718" y="2745" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0009" x="6670" y="2745" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0010" x="6" y="3285" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0011" x="958" y="3285" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0012" x="1910" y="3285" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0013" x="2862" y="3285" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0014" x="3814" y="3285" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0015" x="4766" y="3285" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0016" x="5718" y="3285" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0017" x="6670" y="3285" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0018" x="6" y="3825" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0019" x="958" y="3825" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0020" x="1910" y="3825" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0021" x="2862" y="3825" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0022" x="3814" y="3825" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0023" x="4766" y="3825" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0024" x="5718" y="3825" width="968" height="543"/>
+	<SubTexture name="transStatic0025" x="6695" y="3825" width="968" height="543"/>
+	<SubTexture name="transStatic0026" x="6" y="4377" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0027" x="5724" y="2199" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0028" x="958" y="4377" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0029" x="5724" y="2199" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0030" x="1910" y="4377" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0031" x="5724" y="2199" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0032" x="2862" y="4377" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0033" x="5724" y="2199" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0034" x="3814" y="4377" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0035" x="4766" y="4377" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0036" x="5718" y="4377" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+	<SubTexture name="transStatic0037" x="4766" y="4377" width="943" height="531" frameX="-25" frameY="-12" frameWidth="968" frameHeight="543"/>
+</TextureAtlas>

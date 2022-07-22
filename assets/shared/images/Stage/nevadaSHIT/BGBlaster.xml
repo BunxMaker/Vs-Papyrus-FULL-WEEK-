@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BGBlaster.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blaster instancia 10000" x="6" y="6" width="636" height="1172" frameX="-27" frameY="-87" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10001" x="6" y="6" width="636" height="1172" frameX="-27" frameY="-87" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10002" x="651" y="6" width="636" height="1176" frameX="-27" frameY="-83" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10003" x="651" y="6" width="636" height="1176" frameX="-27" frameY="-83" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10004" x="1296" y="6" width="641" height="1206" frameX="-22" frameY="-53" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10005" x="1296" y="6" width="641" height="1206" frameX="-22" frameY="-53" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10006" x="1946" y="6" width="724" height="1241" frameX="0" frameY="-18" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10007" x="1946" y="6" width="724" height="1241" frameX="0" frameY="-18" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10008" x="2679" y="6" width="641" height="1259" frameX="-25" frameY="0" frameWidth="724" frameHeight="1259"/>
+	<SubTexture name="blaster instancia 10009" x="2679" y="6" width="641" height="1259" frameX="-25" frameY="0" frameWidth="724" frameHeight="1259"/>
+</TextureAtlas>

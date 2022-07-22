@@ -1,0 +1,33 @@
+:pap:angry:angry:CURSES
+:pap:normal:challenge:HUMAN! I, THE GREAT PAPYRUS WILL NOT GIVE UP SO EASLY
+:effect:MusicFadeout:2
+:pap:normal:challenge:NOW YOU FACE MY @SPECIAL ATTACK!!@
+:effect:cutoff:
+:pap:normal:challenge:BEHOLD! MY @SPECI-@
+:effect:DogEvent
+:effect:CamZoom:1.2
+:pap:normal:challenge:....
+:pap:angry:angry:NEVERMIND
+:effect:CamZoom:0.8
+:sansgf:normal:singLEFT:hey papyrus that wasn't your @special attack?@
+:effect:cutoff:
+:sansgf:comic:singLEFT:i guess this is a-
+:pap:angry:angry:NOT NOW SANS
+:pap:angry:angry:THAT DARN CANINE, I GUESS I'LL USE A REALLY COOL NORMAL ATTACK
+:effect:PlayMusic:nyeh
+:pap:normal:normal:WAIT I GOT AN IDEA!!
+:pap:normal:normal:SANS, WOULD YOU HELP ME??
+:sansgf:normal:singLEFT:in a duo?
+:pap:normal:challenge:EXACTLY!!
+:sansgf:closed:danceLeft:sorry bro, im on my break
+:pap:angry:agyStomp:YOU'ARE ALWAYS ON BREAK YOU LAZYBONES!!
+:pap:angry:agyStomp:SANS COME HERE AND LEND ME A HAND!!
+:effect:cutoff:
+:sansgf:wink:singLEFT:sure b-
+:effect:CamZoom:1.2
+:pap:think:confused:DON'T THROW YOUR ARM SANS
+:sansgf:normal:singLEFT:bro, why i would ever do that
+:sansgf:comic:singRIGHT:what kind of funny comedian would ever do that?
+:pap:think:confused:....
+:sansgf:normal:danceRight:ok, im going
+
