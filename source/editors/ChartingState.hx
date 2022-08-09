@@ -1675,9 +1675,9 @@ class ChartingState extends MusicBeatState
 				}
 			}
 
-			if (FlxG.mouse.overlaps(menace))
+			if (FlxG.mouse.overlaps(menace) && countClicks <= 10)
 				{
-					if(countClicks != 10)
+					if(countClicks < 10)
 						countClicks++;
 					else
 						secret();
