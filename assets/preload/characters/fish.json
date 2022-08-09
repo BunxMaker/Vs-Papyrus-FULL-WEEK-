@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fish idle"
+		},
+		{
+			"offsets": [
+				70,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fish LEFT"
+		},
+		{
+			"offsets": [
+				37,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fish RIGHT"
+		},
+		{
+			"offsets": [
+				80,
+				-150
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fishy DOWN"
+		},
+		{
+			"offsets": [
+				150,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fish UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fish",
+	"position": [
+		-10,
+		110
+	],
+	"healthicon": "fish",
+	"flip_x": false,
+	"healthbar_colors": [
+		47,
+		123,
+		177
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"noteskin": "",
+	"scale": 1
+}

@@ -210,6 +210,8 @@ class DialogueBox extends FlxSpriteGroup
 		dialogue = new Alphabet(0, 80, "", false, true);
 		// dialogue.x = 90;
 		// add(dialogue);
+		if (ClientPrefs.languageType == "Espanol")
+			skip.text = "Presiona ESC para saltear el dialogo";
 	}
 	var ok:FlxTextFormat = new FlxTextFormat(0xFFF8FF00,false,false,0xFFF8FF00);
 	var markerBool:Bool = false;
@@ -354,7 +356,7 @@ class DialogueBox extends FlxSpriteGroup
 
 		if (gasterdial != null && numchar == 6)
 			{
-				swagDialogue.alpha = 0.1;
+				swagDialogue.alpha = 0.3;
 				gasterdial.alpha = 1;
 			}
 	}

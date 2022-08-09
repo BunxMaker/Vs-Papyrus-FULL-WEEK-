@@ -57,6 +57,8 @@ class FreeplayState extends MusicBeatState
 	var finalUnlocked:Int;
 	var check:Array<Array<String>> = [[]];
 
+	var main7False:Bool = false;
+
 	var inputtext:String;
 
 	override function create()
@@ -134,6 +136,11 @@ class FreeplayState extends MusicBeatState
 
 		}		
 		
+		for (text in check[0])
+			{
+				if(!(songBeaten.exists(text)))
+					main7False = true;
+			}
 
 		WeekData.loadTheFirstEnabledMod();
 
@@ -352,8 +359,10 @@ class FreeplayState extends MusicBeatState
 
 		curSong = songs[curSelected].songName.toLowerCase();
 
-		codeinPut();
-
+		if (main7False)
+			codeinPut();
+		if (!songBeaten.exists(curSong.toUpperCase()) && check[0].contains(curSong.toLowerCase()))
+			iconArray[curSelected].setColorTransform(0,0,0);
 		var upP = controls.UI_UP_P;
 		var downP = controls.UI_DOWN_P;
 		var accepted = controls.ACCEPT;
@@ -655,7 +664,7 @@ class FreeplayState extends MusicBeatState
 	var UnlockALL:String = "COOLSKELETON95";
 	function codeinPut() 
 	{
-		if (FlxG.keys.justPressed.ANY && finalUnlocked < 7)
+		if (FlxG.keys.justPressed.ANY)
 		{
 			if (FlxG.keys.justPressed.A) //there HAS to be a better way to do this
 			{

@@ -89,6 +89,9 @@ class PauseSubState extends MusicBeatSubstate
 		message.scrollFactor.set();
 		message.font = 'Determination Sans';
 		message.updateHitbox();
+
+		if (ClientPrefs.languageType == "Espanol")
+			message.text = "Tu estabas emocionado por tener una batalla de rap con un skeleto hermoso y necesitabas pausar. Entiendo";
 		if (PlayState.dialDAD.curCharacter == 'papTwo' || PlayState.dialDAD.curCharacter == 'papyrus' || PlayState.dialDAD.curCharacter == 'CoolDude')
 			add(message);
 

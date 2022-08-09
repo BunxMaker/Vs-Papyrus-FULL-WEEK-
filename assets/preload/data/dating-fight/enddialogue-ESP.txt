@@ -1,0 +1,34 @@
+:pap:angry:angry:MALDICION
+:pap:normal:challenge:HUMANO, YO, EL GRAN PAPYRUS NO SE RENDIRA TAN FACIL
+:pap:normal:challenge:UNA MENTE MAESTRA SIEMPRE TIENE UN AS BAJO LA MANGA!
+:effect:MusicFadeout:2
+:pap:normal:challenge:AHORA TE ENFRENTAS A MI @ATAQUE ESPECIAL!!@
+:effect:cutoff:
+:pap:normal:challenge:CONTEMPLA! MI @ATAQUE ES-@
+:effect:DogEvent
+:effect:CamZoom:1.2
+:pap:normal:challenge:....
+:pap:angry:angry:OLVIDALO
+:effect:CamZoom:0.8
+:sansgf:normal:singLEFT:oye papyrus ese no era tu @ataque especial?@
+:effect:cutoff:
+:sansgf:comic:singLEFT:supongo que esta es una-
+:pap:angry:angry:NO AHORA SANS
+:pap:angry:angry:ESE MALDITO CANINO, SUPONGO QUE USARE UN ATAQUE COMUN.
+:effect:PlayMusic:nyeh
+:pap:normal:normal:ESPERA, TENGO UNA IDEA!!
+:pap:normal:normal:SANS, ME AYUDARIAS??
+:sansgf:normal:singLEFT:en un duo?
+:pap:normal:challenge:EXACTO!!
+:sansgf:closed:danceLeft:lo siento bro, estoy en mi descanso
+:pap:angry:agyStomp:TU SIEMPRE ESTAS EN TU DESCANSO HUESOS FLOJOS!!
+:pap:angry:agyStomp:SANS VEN AQUI Y DAME UNA MANO!!
+:effect:cutoff:
+:sansgf:wink:singLEFT:por supesto br-
+:effect:CamZoom:1.2
+:pap:think:confused:NO TIRES TU BRAZO SANS.
+:sansgf:normal:singLEFT:bro, porque haria eso?
+:sansgf:comic:singRIGHT:que tipo de comediante gracioso haria eso?
+:pap:think:confused:....
+:sansgf:normal:danceRight:ok, ya voy
+

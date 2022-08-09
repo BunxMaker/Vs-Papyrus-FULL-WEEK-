@@ -74,6 +74,23 @@ class CheatingState extends MusicBeatState
 	public function new() 
 	{
 		super();
+		if (ClientPrefs.languageType == "Espanol"){
+			dialogue = [
+				":effect:PlaySound:phone",
+				":text:::*(Ring, ring...)",
+				":sans:normal::hola.",
+				":sans:comic::hay alguien ahi...?",
+				":sans:normal::bueno... solo preguntaba",
+				":sans:closed::sere honesto",
+				":sans:closed::no tengo idea de que paso para que estes aqui.",
+				":sans:normal::esto es en realidad un mensaje de error",
+				":sans:closed::asi que, si estas aqui",
+				":sans:bad::eres solo un sucio hacker, o no?",
+				":sans:comic::si, vete de aqui",
+				":sans:wink::ve hacer lo que deberias hacer",
+				":text:::*(Click...)",
+			];
+		}
 		var dial:DialogueBox = new DialogueBox(dialogue);
 		dial.scrollFactor.set();
 		dial.cheating = true;
@@ -2096,6 +2113,7 @@ class ChartingState extends MusicBeatState
 		FlxTween.tween(menace.scale, {x:5, y: 5}, 1, {ease: FlxEase.quadIn, onComplete: function(tween:FlxTween) 
 		{
 			PlayState.SONG = Song.loadFromJson('him-hard','him');
+			PlayState.chartingMode = false;
 			FlxG.sound.music.stop();
 			vocals.stop();
 			LoadingState.loadAndSwitchState(new PlayState());

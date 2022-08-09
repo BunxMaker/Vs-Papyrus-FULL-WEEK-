@@ -1,0 +1,13 @@
+:pap:normal:challenge:HUMANO, TU NO TRASPASARAS ESTA ZONA
+:pap:normal:challenge:YO EL GRAN PAPYRUS TE CAPTURARA 
+:pap:happy:normal:Y TENDRE TODAS LAS COSAS QUE ME MEREZCO
+:pap:proud:great:RESPECTO...RECONOCIMIENTO..
+:bf:normal:singUP:Beep Bop 
+:pap:proud:great:PODRE FINALMENTE UNIRME A LA GUARDIA REA-
+:pap:think:confused:CANTAR? TU QUIERES @CANTAR?@
+:bf:normal:singUP:Beep Bop bap
+:pap:happy:normal:BUENO, SI SE NECESITA UNAS BUENAS MELODIAS PARA CAPTURARTE... QUE ASI SEA!!
+:pap:normal:challenge:PERO, TE ADVIERTO HUMANO!
+:pap:ego:ego:YO, EL GRAN PAPYRUS ES ESTUPENDO EN TODO INCLUYENDO EL CANTO
+:pap:ego:ego:CONTEMPLA, MIRA Y APRENDE HUMANO!!
+:pap:proud:greatness:NYEH HEH HEH HEH!!!

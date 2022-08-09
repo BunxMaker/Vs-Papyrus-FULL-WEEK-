@@ -96,13 +96,18 @@ class PortraitThing extends MusicBeatState
 					}
 				}
 		}
-		explan = true;
-		if (Paths.fileExists('images/explaining/$song explain.png',IMAGE,false,'shared')){
-			bg = new FlxSprite().loadGraphic(Paths.image('explaining/$song explain'));
-			bg.screenCenter(X);
 		
-			add(bg);
+		else
+		{
+			explan = true;
+			if (Paths.fileExists('images/explaining/$song explain.png',IMAGE,false,'shared')){
+				bg = new FlxSprite().loadGraphic(Paths.image('explaining/$song explain'));
+				bg.screenCenter(X);
+		
+				add(bg);
+			}
 		}
+
 	}
 	override function update(elapsed:Float) 
 	{	
@@ -369,6 +374,7 @@ class PlayState extends MusicBeatState
 	public var skipCountdown:Bool = false;
 	var songLength:Float = 0;
 	var fakethesong:Bool;
+	public static var tutorialDeath:Bool = false;
 
 	public var boyfriendCameraOffset:Array<Float> = null;
 	public var opponentCameraOffset:Array<Float> = null;
@@ -477,6 +483,7 @@ class PlayState extends MusicBeatState
 		FlxCamera.defaultCameras = [camGame];
 		CustomFadeTransition.nextCamera = camOther;
 		//FlxG.cameras.setDefaultDrawTarget(camGame, true);
+
 
 		persistentUpdate = true;
 		persistentDraw = true;
@@ -597,6 +604,7 @@ class PlayState extends MusicBeatState
 		battle = false;
 		fakethesong = false;
 		camnumber = 0;
+		tutorialDeath = false;
 
 		switch (curStage)
 		{
@@ -717,7 +725,7 @@ class PlayState extends MusicBeatState
 				stageStorage["bg"] = bg;
 				add(bg);
 
-				var front_bg:BGSprite = new BGSprite('Stage/forest/front bg', -391, -225, 1, 1);
+				var front_bg:BGSprite = new BGSprite('Stage/forest/front bg', -438, -225, 1, 1);
 				stageStorage["front bg"] =  front_bg;
 				addinFront.push(front_bg);
 
@@ -1275,13 +1283,16 @@ class PlayState extends MusicBeatState
 				addBehindDad(evilTrail);
 		}
 
-		var file:String = Paths.json(songName + '/dialogue'); //Checks for json/Psych Engine dialogue
+		var laung:String = "";
+		if (ClientPrefs.languageType == "Espanol")
+			laung = "-ESP";
+		var file:String = Paths.json(songName + '/dialogue' + laung); //Checks for json/Psych Engine dialogue
 		if (OpenFlAssets.exists(file)) {
 			dialogueJson = DialogueBoxPsych.parseDialogue(file);
 		}
 
-		var file:String = Paths.txt(songName + '/dialogue'); //Checks for vanilla/Senpai dialogue
-		var endFile:String = Paths.txt(songName + '/enddialogue');
+		var file:String = Paths.txt(songName + '/dialogue' + laung); //Checks for vanilla/Senpai dialogue
+		var endFile:String = Paths.txt(songName + '/enddialogue' + laung);
 		if (OpenFlAssets.exists(file)) {
 			dialogue = CoolUtil.coolTextFile(file);
 		}
@@ -1592,6 +1603,10 @@ class PlayState extends MusicBeatState
 		decline = new FlxText(accept.x + 300,610,Std.int(FlxG.width * 0.9),"Decline",48);
 		decline.font = "Determination Sans";
 		decline.color = FlxColor.YELLOW;
+		if (ClientPrefs.languageType == "Espanol"){
+			accept.text = "Aceptar";
+			decline.text = "Rechazar";
+		}
 
 		var caCmera:FlxSprite = new FlxSprite().loadGraphic(Paths.image('mainmenu/camthing'));
 		var caNumer:FlxText;
@@ -1972,6 +1987,7 @@ class PlayState extends MusicBeatState
 			if (currentSong == 'bone brothers')
 			{
 				FlxG.sound.play(Paths.sound('sanstele'));
+				inCutscene = true;
 				black.alpha -= 1;
 			}
 			
@@ -3328,13 +3344,12 @@ class PlayState extends MusicBeatState
 			DiscordClient.changePresence(detailsPausedText, SONG.song + " (" + storyDifficultyText + ")", iconP2.getCharacter());
 		}
 		Lib.application.window.title = Main.gameName + 'but you are taking a break';
-		if (health > 0)
+		if (health > 0 || inCutscene == false)
 			openPauseMenu();
 		#end
 
 		super.onFocusLost();
 	}
-
 	function resyncVocals():Void
 	{
 		if(finishTimer != null) return;
@@ -3525,6 +3540,7 @@ class PlayState extends MusicBeatState
 					case 0:
 						camGame.flash(FlxColor.WHITE, 10);
 					case 104:
+						tutorialDeath = true;
 						health = 0;
 						
 				}
@@ -3653,11 +3669,24 @@ class PlayState extends MusicBeatState
 						dad.setColorTransform();
 						gf.setColorTransform();
 						boyfriend.setColorTransform();
+					case 256:
+						FlxTween.tween(FlxG.camera, {zoom: 1.1}, 1, {ease: FlxEase.quadOut});
+						defaultCamZoom = 1.1;
+					case 384:
+						FlxTween.tween(FlxG.camera, {zoom: StageData.getStageFile(curStage).defaultZoom}, 1, {ease: FlxEase.quadOut});
+						defaultCamZoom = StageData.getStageFile(curStage).defaultZoom;
+					case 512:
+						FlxTween.tween(FlxG.camera, {zoom: 1.1}, 1, {ease: FlxEase.quadOut});
+						defaultCamZoom = 1.1;
+					case 764:
+						FlxTween.tween(FlxG.camera, {zoom: StageData.getStageFile(curStage).defaultZoom}, 1, {ease: FlxEase.quadOut});
+						defaultCamZoom = StageData.getStageFile(curStage).defaultZoom;
 				}
 			case 'him':
 				switch (curStep)
 				{
 					case 0:
+						FlxG.mouse.visible = false;
 						camGame.alpha = 0;
 						camHUD.alpha = 0;
 					case 1:
@@ -3692,11 +3721,11 @@ class PlayState extends MusicBeatState
 					case 86:
 						sansStrums.forEach(function(nm:StrumNote) {
 							if (nm.alpha < 0.7)
-								nm.alpha += 0.01;
+								nm.alpha += 0.05;
 						});
 					case 94:
 						sansStrums.forEach(function(nm:StrumNote) {
-								nm.alpha -= 0.01;
+								nm.alpha -= 0.05;
 						});
 					case 16:
 						dad.altIdle = false;
@@ -3712,15 +3741,6 @@ class PlayState extends MusicBeatState
 			case 'bone brothers':
 				switch(curStep)
 				{
-					case 0:
-						if(!inCutscene){
-							for (object => sprite in stageStorage)
-								sprite.alpha = 0;
-							dad.alpha = 0;
-							gf.alpha = 0;
-							sansdad.alpha = 0;
-							boyfriend.alpha = 0;
-						}
 					case 64:
 						FlxTween.tween(FlxG.camera, {zoom: 1.3}, 2, {ease: FlxEase.cubeOut});	
 						defaultCamZoom = 1.3;
@@ -3806,6 +3826,15 @@ class PlayState extends MusicBeatState
 						sansdad.alpha = 1;
 
 				}
+				if (curStep == 0 && !isStoryMode)
+				{
+					for (object => sprite in stageStorage)
+						sprite.alpha = 0;
+					dad.alpha = 0;
+					gf.alpha = 0;
+					sansdad.alpha = 0;
+					boyfriend.alpha = 0;
+				}	
 		}
 	
 		if(dialoguemoveCam) //same shit as below
@@ -4254,6 +4283,7 @@ class PlayState extends MusicBeatState
 	}
 
 	public var isDead:Bool = false; //Don't mess with this on Lua!!!
+	public static var endsongonDeath:Void -> Void;
 	function doDeathCheck(?skipHealthCheck:Bool = false) {
 		if (((skipHealthCheck && instakillOnMiss) || health <= 0) && !practiceMode && !isDead)
 		{
@@ -4284,7 +4314,13 @@ class PlayState extends MusicBeatState
 				DiscordClient.changePresence("Game Over - " + detailsText, SONG.song + " (" + storyDifficultyText + ")", iconP2.getCharacter());
 				#end
 				isDead = true;
-				return true;
+				if (tutorialDeath){
+					endsongonDeath = endSong;
+					return false;
+				}
+				else{
+					return true;
+				}		
 			}
 		}
 		return false;
@@ -5791,8 +5827,13 @@ class PlayState extends MusicBeatState
 			if(note.hitCausesMiss) {
 				switch (note.noteType)
 				{
-					case 'Bone Note', 'Hurt Note':
-						noteMiss(note);
+					case 'Bone Note':
+						if (health > 0.1){
+							if (health <= note.missHealth ){
+								note.missHealth -= note.missHealth - (health - 0.1);
+							}
+							noteMiss(note);
+						}
 						FlxG.sound.play(Paths.sound('undertale hurt', 'shared'));
 						if(!note.noteSplashDisabled && !note.isSustainNote) {
 							spawnNoteSplashOnNote(note);
@@ -6180,6 +6221,18 @@ class PlayState extends MusicBeatState
 		lastStepHit = curStep;
 		setOnLuas('curStep', curStep);
 		callOnLuas('onStepHit', []);
+		if (currentSong == 'bone brothers'){
+			if (curStep == 1 && isStoryMode && !inCutscene)
+				{
+					FlxG.sound.play(Paths.sound('sanstele'));
+					for (object => sprite in stageStorage)
+						sprite.alpha = 0;
+					dad.alpha = 0;
+					gf.alpha = 0;
+					sansdad.alpha = 0;
+					boyfriend.alpha = 0;
+				}
+		}
 
 		if (currentSong == 'gasterpurgation')
 		{

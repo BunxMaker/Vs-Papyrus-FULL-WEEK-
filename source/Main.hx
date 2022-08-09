@@ -1,5 +1,6 @@
 package;
 
+import flixel.util.FlxColor;
 import flixel.graphics.FlxGraphic;
 import flixel.FlxG;
 import flixel.FlxGame;

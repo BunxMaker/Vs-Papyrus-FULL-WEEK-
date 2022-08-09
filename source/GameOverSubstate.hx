@@ -54,8 +54,22 @@ class GameOverSubstate extends MusicBeatSubstate
 	}
 
 	public function new(x:Float, y:Float, camX:Float, camY:Float)
-	{
+	{	
 		super();
+
+		if (ClientPrefs.languageType == "Espanol"){
+			failDialogue = [
+				"PERDISTE HUMANO, AHORA TE LLEVARE A LA ZONA DE CAPTURA!!",
+				"PSST, HUMANO, AZUL SIGNIFICA QUE NO TE TIENES QUE MOVER... O CANTAR",
+				"NYEH HEH HEH PARECE QUE YO, EL GRAN PAPYRUS ES EL MEJOR CANTANTE",
+				"NO TOQUES ESAS NOTAS ROJAS, SANS DERRAMO KETCHUP SOBRE ELLAS",
+				"LO PUEDES HACER MEJOR, SIGUE INTENTANDO HUMANO!!",
+				"SANS QUE SIGNIFICA LAS 'BOLAS AZULES'!!",
+				"ASI QUE.... HUMANO..... TE GUSTAN LOS PUZZLES?",
+				"HUMANO, TE VES FAMILIAR.... NOS HEMOS CONOCIDO ANTES??",
+			];
+		}
+		
 		var Ran:Int = FlxG.random.int(0, 5);
 		resetVariables();
 
@@ -124,7 +138,20 @@ class GameOverSubstate extends MusicBeatSubstate
 	override function update(elapsed:Float)
 	{
 		super.update(elapsed);
-
+		var changeMechaDial:Array<String> = [
+			"* YOU SEEM TO BE STRUGGLING HUMAN.. WOULD YOU LIKE TO DISABLE MECHANICS?",
+			"* Do you want to disable mechanics?",
+			"* ALRIGHTY THEN!!",
+			"* OH... REMEMBER THAT YOU CAN DISABLE THEM ON THE OPTIONS MENU!"
+		];
+		if (ClientPrefs.languageType == "Espanol"){
+			changeMechaDial = [
+				"* PARACE QUE TIENES PROBLEMAS HUMANO.. QUIERES DESACTIVAR LAS MECHANICAS?",
+				"* Quieres desactivar las mechanicas?",
+				"* MUY BIEN ENTONCES",
+				"* OH... RECUERDA QUE PUEDES DESACTIVARLAS EN EL MENU DE OPCIONES!"
+			];
+		}
 		PlayState.instance.callOnLuas('onUpdate', [elapsed]);
 		if(updateCamera) {
 			var lerpVal:Float = CoolUtil.boundTo(elapsed * 0.6, 0, 1);
@@ -145,9 +172,9 @@ class GameOverSubstate extends MusicBeatSubstate
 					PlayState.failDial.sounds = [FlxG.sound.load(Paths.sound('Pap talk'), 0.6)];
 					PlayState.failDial.font = "Papyrus";
 					if (disableMecha)
-						PlayState.failDial.resetText("* ALRIGHTY THEN!!");
+						PlayState.failDial.resetText(changeMechaDial[2]);
 					else
-						PlayState.failDial.resetText("* OH...REMEMBER THAT YOU CAN DISABLE THEM ON THE OPTIONS MENU!");
+						PlayState.failDial.resetText(changeMechaDial[3]);
 					PlayState.failDial.start(0.04,true, false, null, function() 
 						{
 							blockRetry = false;
@@ -217,13 +244,13 @@ class GameOverSubstate extends MusicBeatSubstate
 							PlayState.failBox.animation.play('normal');
 							add(PlayState.failDial);							
 			
-							PlayState.failDial.resetText("* YOU SEEM TO BE STRUGGLING HUMAN.. WOULD YOU LIKE TO DISABLE MECHANICS?");
+							PlayState.failDial.resetText(changeMechaDial[0]);
 							PlayState.failDial.start(0.04,true, false, null, function() 
 							{
 								new FlxTimer().start(2, function(tmr:FlxTimer) 
 								{
 									PlayState.failDial.sounds = [FlxG.sound.load(Paths.sound('pixelText'), 0.6)];
-									PlayState.failDial.resetText("* Do you want to disable mechanics?");
+									PlayState.failDial.resetText(changeMechaDial[1]);
 									PlayState.failDial.font = "Determination Sans";
 									PlayState.failDial.start(0.04,true, false, null, function() 
 									{
@@ -275,7 +302,13 @@ class GameOverSubstate extends MusicBeatSubstate
 			{
 				FlxG.camera.fade(FlxColor.BLACK, 2, false, function()
 				{
-					MusicBeatState.resetState();
+					if (PlayState.tutorialDeath){
+						FlxG.sound.music.play();
+						PlayState.endsongonDeath();
+					}
+					else{
+						MusicBeatState.resetState();
+					}
 				});
 			});
 			PlayState.instance.callOnLuas('onGameOverConfirm', [true]);

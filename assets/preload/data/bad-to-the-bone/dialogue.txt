@@ -7,7 +7,7 @@
 :pap:think:confused:SING? YOU WANT TO @SING?@
 :bf:normal:singUP:Beep Bop bap
 :pap:happy:normal:WELL THEN IF IT TAKES FINE TUNES TO CAPTURE YOU... SO BE IT!!
-:pap:happy:challenge:BE WARNED HUMAN!
+:pap:normal:challenge:BUT, BE WARNED HUMAN!
 :pap:ego:ego:I, THE GREAT PAPYRUS, IS GREAT AT EVERTHING INCLUDING SINGING
-:pap:ego:ego:BEHOLD, WATCH AND LEARN HUMANS!!
-:pap:proud:greatone:NYEH HEH HEH HEH!!!
+:pap:ego:ego:BEHOLD, WATCH AND LEARN HUMAN!!
+:pap:proud:greatness:NYEH HEH HEH HEH!!!

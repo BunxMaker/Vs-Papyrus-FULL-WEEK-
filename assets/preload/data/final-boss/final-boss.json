@@ -870,6 +870,7 @@
 				],
 				"endTime": 27692.3076923077,
 				"p1AltAnim": true,
+				"altAnim": true,
 				"startTime": 25846.1538461538,
 				"mustHitSection": false
 			},
@@ -1019,6 +1020,7 @@
 				],
 				"endTime": 29538.4615384615,
 				"p1AltAnim": true,
+				"altAnim": true,
 				"startTime": 27692.3076923077,
 				"mustHitSection": false
 			},
@@ -1028,22 +1030,8 @@
 					[
 						29538.4615384615,
 						3,
-						115.384615384615
-					],
-					[
-						29769.2307692308,
-						0,
-						0
-					],
-					[
-						29769.2307692308,
-						2,
-						0
-					],
-					[
-						29769.2307692308,
-						3,
-						0
+						115.384615384615,
+						"Alt Animation"
 					],
 					[
 						30166,
@@ -1139,10 +1127,29 @@
 						31153.8461538462,
 						0,
 						0
+					],
+					[
+						29769.2307692308,
+						3,
+						0,
+						"Alt Animation"
+					],
+					[
+						29769.2307692308,
+						2,
+						0,
+						"Alt Animation"
+					],
+					[
+						29769.2307692308,
+						0,
+						0,
+						"Alt Animation"
 					]
 				],
 				"endTime": 31384.6153846154,
 				"p1AltAnim": false,
+				"altAnim": false,
 				"startTime": 29538.4615384615,
 				"mustHitSection": false
 			},
@@ -1610,6 +1617,7 @@
 				],
 				"endTime": 36923.0769230769,
 				"p1AltAnim": true,
+				"altAnim": true,
 				"startTime": 35076.9230769231,
 				"mustHitSection": false
 			},
@@ -2065,6 +2073,7 @@
 				],
 				"endTime": 42461.5384615385,
 				"p1AltAnim": true,
+				"altAnim": true,
 				"startTime": 40615.3846153846,
 				"mustHitSection": false
 			},
@@ -2209,6 +2218,7 @@
 				],
 				"endTime": 44307.6923076923,
 				"p1AltAnim": true,
+				"altAnim": true,
 				"startTime": 42461.5384615385,
 				"mustHitSection": false
 			},
@@ -31960,6 +31970,16 @@
 				"changeBPM": false,
 				"bpm": 130,
 				"startTime": 3708923.07692308
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 130,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"gfSection": false,

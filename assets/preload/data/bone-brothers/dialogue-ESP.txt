@@ -1,0 +1,13 @@
+:pap:proud:great:*AHEM*
+:pap:normal:challenge:HUMANO, AHORA TE ENFRENTAS AL GRAN PAPYRUS!
+:sans:normal:singLEFT:y sans
+:pap:proud:great:NYEH HEH HEH
+:pap:normal:challenge:MAS BIEN ESTES PREPARADO PORQUE EN ESTA ULTIMA PISTA
+:pap:normal:normal:MAS A TENER QUE DÓBLARTE UN POCO MAS...
+:pap:ego:ego:EL *ESPINAZO*!!
+:pap:proud:great:NYEH HEH HEH HEH HEH HEH!
+:effect:CamZoom:1.2
+:pap:ego:ego:HEH!!
+
+
+
