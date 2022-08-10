@@ -33,6 +33,9 @@ class MainMenuState extends MusicBeatState
 	var menuItems:FlxTypedGroup<FlxSprite>;
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
+	var inputtext:String;
+	var main7False:Bool = false;
+
 	
 	var optionShit:Array<String> = [
 		'story_mode',
@@ -47,6 +50,7 @@ class MainMenuState extends MusicBeatState
 	var camFollow:FlxObject;
 	var camFollowPos:FlxObject;
 	var debugKeys:Array<FlxKey>;
+	var check:Array<Array<String>> = [[]];
 
 	public var menuChar:FlxSprite;
 
@@ -89,6 +93,17 @@ class MainMenuState extends MusicBeatState
 		var char:String = '';
 		var charPos:Array<Int> = [];
 		trace(Ran);
+		inputtext = "";
+		check = [["bad to the bone", "dating fight", "bone brothers", 
+			"entry log", "gasterpurgation", "to the bone", "triple skeletons", 
+			"final boss"]];
+
+		for (text in check[0])
+			{
+				if(!(FreeplayState.songBeaten.exists(text)))
+					main7False = true;
+			}
+
 		switch (Ran)
 		{
 			case 0:
@@ -218,6 +233,8 @@ class MainMenuState extends MusicBeatState
 
 		if (!selectedSomethin)
 		{
+			if (main7False)
+				codeinPut();
 			if (controls.UI_UP_P)
 			{
 				FlxG.sound.play(Paths.sound('scrollMenu'));
@@ -299,6 +316,96 @@ class MainMenuState extends MusicBeatState
 		}
 
 		super.update(elapsed);
+
+	}
+
+	var UnlockALL:String = "COOLSKELETON95";
+	function codeinPut() 
+	{
+		if (FlxG.keys.justPressed.ANY)
+		{
+			if (FlxG.keys.justPressed.A) //there HAS to be a better way to do this
+			{
+				inputtext += 'A';
+			}
+			else if (FlxG.keys.justPressed.B)
+			{
+				inputtext += 'B';
+			}
+			else if (FlxG.keys.justPressed.C)
+			{
+				inputtext += 'C';
+			}
+			else if (FlxG.keys.justPressed.D)
+			{
+				inputtext += 'D';
+			}
+			else if (FlxG.keys.justPressed.E)
+			{
+				inputtext += 'E';
+			}
+			else if (FlxG.keys.justPressed.K)
+			{
+				inputtext += 'K';
+			}
+			else if (FlxG.keys.justPressed.L)
+			{
+				inputtext += 'L';
+			}
+			else if (FlxG.keys.justPressed.N)
+			{
+				inputtext += 'N';
+			}
+			else if (FlxG.keys.justPressed.O)
+			{
+				inputtext += 'O';
+			}
+			else if (FlxG.keys.justPressed.S)
+			{
+				inputtext += 'S';
+			}
+			else if (FlxG.keys.justPressed.T)
+			{
+				inputtext += 'T';
+			}
+			else if (FlxG.keys.justPressed.FIVE)
+			{
+				inputtext += '5';
+			}
+			else if (FlxG.keys.justPressed.NINE)
+			{
+				inputtext += '9';
+			}
+			else if (FlxG.keys.justPressed.SEVEN)
+			{
+				inputtext += '7';
+			}
+			else if (FlxG.keys.justPressed.TWO)
+			{
+				inputtext += '2';
+			}
+			if (UnlockALL.startsWith(inputtext))
+			{
+				if (inputtext == UnlockALL)
+				{
+					FlxG.camera.flash(FlxColor.WHITE, 0.5);
+					for (text in check[0])
+					{
+						var sooon:String = text;
+						FreeplayState.songBeaten.set(sooon.toUpperCase(),true);
+					}
+					FlxG.save.data.songBeaten = FreeplayState.songBeaten;
+					FlxG.save.flush();
+					MusicBeatState.resetState();
+					
+				}
+			}		
+			else
+			{
+				FlxG.sound.play(Paths.sound('UnderTale shock','shared'));
+				inputtext = "";
+			}
+		}	
 
 	}
 

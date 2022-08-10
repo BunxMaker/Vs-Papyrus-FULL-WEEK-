@@ -57,10 +57,6 @@ class FreeplayState extends MusicBeatState
 	var finalUnlocked:Int;
 	var check:Array<Array<String>> = [[]];
 
-	var main7False:Bool = false;
-
-	var inputtext:String;
-
 	override function create()
 	{
 		//Paths.clearStoredMemory();
@@ -87,7 +83,6 @@ class FreeplayState extends MusicBeatState
 		DiscordClient.changePresence("In the Menus", null);
 		#end
 
-		inputtext = "";
 
 		for (i in 0...WeekData.weeksList.length) {
 			if(weekIsLocked(WeekData.weeksList[i])) continue;
@@ -135,12 +130,6 @@ class FreeplayState extends MusicBeatState
 			}
 
 		}		
-		
-		for (text in check[0])
-			{
-				if(!(songBeaten.exists(text)))
-					main7False = true;
-			}
 
 		WeekData.loadTheFirstEnabledMod();
 
@@ -359,8 +348,6 @@ class FreeplayState extends MusicBeatState
 
 		curSong = songs[curSelected].songName.toLowerCase();
 
-		if (main7False)
-			codeinPut();
 		if (!songBeaten.exists(curSong.toUpperCase()) && check[0].contains(curSong.toLowerCase()))
 			iconArray[curSelected].setColorTransform(0,0,0);
 		var upP = controls.UI_UP_P;
@@ -660,97 +647,7 @@ class FreeplayState extends MusicBeatState
 		diffText.x = Std.int(scoreBG.x + (scoreBG.width / 2));
 		diffText.x -= diffText.width / 2;
 	}
-
-	var UnlockALL:String = "COOLSKELETON95";
-	function codeinPut() 
-	{
-		if (FlxG.keys.justPressed.ANY)
-		{
-			if (FlxG.keys.justPressed.A) //there HAS to be a better way to do this
-			{
-				inputtext += 'A';
-			}
-			else if (FlxG.keys.justPressed.B)
-			{
-				inputtext += 'B';
-			}
-			else if (FlxG.keys.justPressed.C)
-			{
-				inputtext += 'C';
-			}
-			else if (FlxG.keys.justPressed.D)
-			{
-				inputtext += 'D';
-			}
-			else if (FlxG.keys.justPressed.E)
-			{
-				inputtext += 'E';
-			}
-			else if (FlxG.keys.justPressed.K)
-			{
-				inputtext += 'K';
-			}
-			else if (FlxG.keys.justPressed.L)
-			{
-				inputtext += 'L';
-			}
-			else if (FlxG.keys.justPressed.N)
-			{
-				inputtext += 'N';
-			}
-			else if (FlxG.keys.justPressed.O)
-			{
-				inputtext += 'O';
-			}
-			else if (FlxG.keys.justPressed.S)
-			{
-				inputtext += 'S';
-			}
-			else if (FlxG.keys.justPressed.T)
-			{
-				inputtext += 'T';
-			}
-			else if (FlxG.keys.justPressed.FIVE)
-			{
-				inputtext += '5';
-			}
-			else if (FlxG.keys.justPressed.NINE)
-			{
-				inputtext += '9';
-			}
-			else if (FlxG.keys.justPressed.SEVEN)
-			{
-				inputtext += '7';
-			}
-			else if (FlxG.keys.justPressed.TWO)
-			{
-				inputtext += '2';
-			}
-			if (UnlockALL.startsWith(inputtext))
-			{
-				if (inputtext == UnlockALL)
-				{
-					FlxG.camera.flash(FlxColor.WHITE, 0.5);
-					for (text in check[0])
-					{
-						var sooon:String = text;
-						songBeaten.set(sooon.toUpperCase(),true);
-					}
-					MusicBeatState.resetState();
-					
-				}
-			}		
-			else
-			{
-				FlxG.sound.play(Paths.sound('UnderTale shock','shared'));
-				inputtext = "";
-			}
-		}	
-
-	}
-
 }
-
 class SongMetadata
 {
 	public var songName:String = "";
