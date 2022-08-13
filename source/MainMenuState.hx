@@ -100,7 +100,8 @@ class MainMenuState extends MusicBeatState
 
 		for (text in check[0])
 			{
-				if(!(FreeplayState.songBeaten.exists(text)))
+				var sttex:String = text.toUpperCase();
+				if(!(FreeplayState.songBeaten.exists(sttex)))
 					main7False = true;
 			}
 

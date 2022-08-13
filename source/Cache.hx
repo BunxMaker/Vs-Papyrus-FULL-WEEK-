@@ -24,6 +24,7 @@ class Cache extends FlxState
 {
     var toBeDone = 0;
 	var done = 0;
+    var barProgress:Float = 0;
 
 	var loaded = false;
 	
@@ -88,8 +89,8 @@ class Cache extends FlxState
 		barBG.screenCenter(X);
 
 		bar = new FlxBar(barBG.x + 60,barBG.y + 100,FlxBarFillDirection.LEFT_TO_RIGHT,Std.int(barBG.width - 118), Std.int(barBG.height - 130) ,this,
-        "done",0,toBeDone);
-		bar.numDivisions = toBeDone;
+        "barProgress",0,100);
+		bar.numDivisions = 100;
 		bar.createFilledBar(FlxColor.RED, FlxColor.YELLOW);
 		runningpaps.x = bar.x;
 		runningpaps.y = bar.y - 300;
@@ -103,42 +104,54 @@ class Cache extends FlxState
 		add(dog);
         
 
-        sys.thread.Thread.create(() -> {
-			while(!loaded)
-			{
-				if (toBeDone != 0 && done != toBeDone)
-					{
-						text.text = "Loading " + thing;
-						runningpaps.x = bar.x - (bar.width * (FlxMath.remapToRange(bar.percent, 0, toBeDone, toBeDone, 0) * 0.01));
-					}
-			}
-		
-		});
-
         sys.thread.Thread.create(() ->
 		{
-			cache();
+            for (i in images)
+                {
+                    thing = 'Bones';
+                    var data:BitmapData = BitmapData.fromFile("assets/shared/images/characters/" + i);
+                    var graph = FlxGraphic.fromBitmapData(data);
+                    graph.persist = true;
+                    graph.destroyOnNoUse = false;
+                    bitmapData.set(i.replace(".png", ""),graph);
+                    updatePros();
+                }
 		});
 
         super.create();
     }
     override function update(elaspsed) 
     {
-        super.update(elaspsed);
+        super.update(elaspsed);			
+        if (!loaded){
+				if (barProgress != 100)
+					{
+						text.text = "Loading " + thing;
+						runningpaps.x = bar.x - (bar.width * (FlxMath.remapToRange(bar.percent, 0, 100, 100, 0) * 0.01) - 700);
+					}
+                else{
+                    
+                    loaded = true;
+                    cache(); 
+                }
+        }
+    }
+    //taken from kade
+    function truncateFloat( number : Float, precision : Int): Float {
+		var num = number;
+		num = num * Math.pow(10, precision);
+		num = Math.round( num ) / Math.pow(10, precision);
+		return num;
+	}
+
+    function updatePros() 
+    {
+        done++;
+        barProgress = truncateFloat(done / Lambda.count(images) * 100, 2);
+        
     }
     function cache() 
     {
-		for (i in images)
-        {
-            thing = 'Bones';
-            var data:BitmapData = BitmapData.fromFile("assets/shared/images/characters/" + i);
-            var graph = FlxGraphic.fromBitmapData(data);
-            graph.persist = true;
-            graph.destroyOnNoUse = false;
-            bitmapData.set(i.replace(".png", ""),graph);
-            done++;
-        }
-        loaded = true;
         var whobones:Int = FlxG.random.int(0,1);
         if (whobones == 1)
             text.text = 'LOADED AND PREPARED HUMAN!!';

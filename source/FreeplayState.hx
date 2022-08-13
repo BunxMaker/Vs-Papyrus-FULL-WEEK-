@@ -110,7 +110,7 @@ class FreeplayState extends MusicBeatState
 			if (i == 1){
 				//
 				#if !debug
-					if(StoryMenuState.weekCompleted.exists(WeekData.weeksList[1]))
+					if(StoryMenuState.weekCompleted.exists(WeekData.weeksList[1]) || songBeaten.exists('ENTRY LOG'))
 						addSong('Entry Log', 1, 'gaster',FlxColor.GRAY);
 					if(songBeaten.exists('ENTRY LOG')){
 						addSong('Gasterpurgation', 1, 'EXgaster',FlxColor.RED);

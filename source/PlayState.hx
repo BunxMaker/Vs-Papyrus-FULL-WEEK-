@@ -1635,7 +1635,7 @@ class PlayState extends MusicBeatState
 		}	
 
 		var daSong:String = Paths.formatToSongPath(curSong);
-		if (isStoryMode && !seenCutscene)
+		if (isStoryMode && !seenCutscene && !chartingMode)
 		{
 			switch (daSong)
 			{
@@ -1969,6 +1969,8 @@ class PlayState extends MusicBeatState
 	}
 	function explainMecha(?img:PortraitThing):Void 
 	{
+		if(chartingMode)
+			return ;
 		add(img);
 		camFollowPos.setPosition(boyfriend.getMidpoint().x, boyfriend.getMidpoint().y);
 		inCutscene = true;
