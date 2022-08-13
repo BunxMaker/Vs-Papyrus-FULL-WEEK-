@@ -3014,7 +3014,7 @@ class ChartingState extends MusicBeatState
 		//make it look sexier if possible
 		trace(song);
 		var cheattt:Bool = false;
-		var check:Array<Array<String>> = [["bad to the bone", "dating fight", "bone brothers", "entry log", "gasterpurgation", "to the bone", "triple skeletons", "final boss"]];
+		var check:Array<Array<String>> = [["entry log", "gasterpurgation", "to the bone", "triple skeletons", "final boss"]];
 		if (check[0].contains(song.toLowerCase())){
 			if(!FreeplayState.songBeaten.exists(song.toLowerCase())) cheattt = true;
 		}

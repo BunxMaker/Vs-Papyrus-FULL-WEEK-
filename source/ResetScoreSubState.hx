@@ -96,10 +96,6 @@ class ResetScoreSubState extends MusicBeatSubstate
 				} else {
 					Highscore.resetWeek(WeekData.weeksList[week], difficulty);
 				}
-				FreeplayState.songBeaten.remove(song.toUpperCase());
-				FlxG.save.data.songBeaten = FreeplayState.songBeaten;
-				FlxG.save.flush();
-				trace(FlxG.save.data.songBeaten);
 			}
 			FlxG.sound.play(Paths.sound('cancelMenu'), 1);
 			close();
