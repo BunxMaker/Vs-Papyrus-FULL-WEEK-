@@ -359,9 +359,6 @@ class FreeplayState extends MusicBeatState
 		var coverbool:Bool = false;
 		var shiftMult:Int = 1;
 		if(FlxG.keys.pressed.SHIFT) shiftMult = 3;
-
-		if (curSong == 'gasterpurgation' || curSong == 'triple skeletons')
-			changeDiff(2);
 		if(songs.length > 1)
 		{
 			if (upP)
@@ -396,11 +393,15 @@ class FreeplayState extends MusicBeatState
 			}
 		}
 		
-		if (controls.UI_LEFT_P && !(curSong == 'gasterpurgation' || curSong == 'triple skeletons'))
+		if (controls.UI_LEFT_P && !(curSong == 'gasterpurgation'))
 			changeDiff(-1);
-		else if (controls.UI_RIGHT_P  && !(curSong == 'gasterpurgation' || curSong == 'triple skeletons'))
+		else if (controls.UI_RIGHT_P  && !(curSong == 'gasterpurgation'))
 			changeDiff(1);
-		else if (upP || downP) changeDiff();
+		else if (upP || downP) {
+			changeDiff();
+			if (curSong == 'gasterpurgation')
+				changeDiff(2);
+		}
 
 		if (controls.BACK)
 		{
@@ -516,16 +517,35 @@ class FreeplayState extends MusicBeatState
 		vocals = null;
 	}
 
+	var arra:Array<String> = ["dating fight", "bone brothers","entry log","triple skeletons"];
 	function changeDiff(change:Int = 0)
 	{
 		curDifficulty += change;
-		if (curSong == 'gasterpurgation' || curSong == 'triple skeletons'){
-			curDifficulty = 2;
+		if (curSong == 'gasterpurgation') curDifficulty = 2;
+
+		if (curSong == 'triple skeletons'){
+			if (curDifficulty < 2)
+				curDifficulty = 3;
+			if (curDifficulty > 3)
+				curDifficulty = 2;
 		}
-		if (curDifficulty < 0)
-			curDifficulty = CoolUtil.difficulties.length-1;
-		if (curDifficulty >= CoolUtil.difficulties.length)
-			curDifficulty = 0;
+
+		trace(arra.contains(curSong));
+		if (curDifficulty < 0){
+			if (arra.contains(curSong))
+				curDifficulty = CoolUtil.difficulties.length-1;
+			else 
+				curDifficulty = CoolUtil.difficulties.length-2;
+		}
+		if (arra.contains(curSong)){
+			if (curDifficulty >= CoolUtil.difficulties.length)
+				curDifficulty = 0;
+		}
+		else{
+			if (curDifficulty >= CoolUtil.difficulties.length - 1)
+				curDifficulty = 0;
+		}
+
 
 		lastDifficultyName = CoolUtil.difficulties[curDifficulty];
 
@@ -552,6 +572,7 @@ class FreeplayState extends MusicBeatState
 		if (curSelected >= songs.length)
 			curSelected = 0;
 			
+		curSong = songs[curSelected].songName.toLowerCase();
 		var newColor:Int = songs[curSelected].color;
 		if(newColor != intendedColor) {
 			if(colorTween != null) {

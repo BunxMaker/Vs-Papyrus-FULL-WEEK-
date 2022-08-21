@@ -335,8 +335,8 @@ class StoryMenuState extends MusicBeatState
 		curDifficulty += change;
 
 		if (curDifficulty < 0)
-			curDifficulty = CoolUtil.difficulties.length-1;
-		if (curDifficulty >= CoolUtil.difficulties.length)
+			curDifficulty = CoolUtil.difficulties.length-2;
+		if (curDifficulty >= CoolUtil.difficulties.length-1)
 			curDifficulty = 0;
 
 		WeekData.setDirectoryFromWeek(loadedWeeks[curWeek]);

@@ -54,9 +54,19 @@ class PauseSubState extends MusicBeatSubstate
 		}
 		menuItems = menuItemsOG;
 
+		var arra:Array<String> = ["dating fight", "bone brothers","entry log","triple skeletons"];
+
 		for (i in 0...CoolUtil.difficulties.length) {
 			var diff:String = '' + CoolUtil.difficulties[i];
-			difficultyChoices.push(diff);
+			var cover:Bool = false;
+
+			if (PlayState.SONG.song.toLowerCase() == "triple skeletons" && i < 2)
+				cover = true;
+			
+			if (arra.contains(PlayState.SONG.song.toLowerCase()) && diff == "Old Chart" && !cover)
+				difficultyChoices.push(diff);
+			else if (diff != "Old Chart" && !cover)
+				difficultyChoices.push(diff);
 		}
 		difficultyChoices.push('BACK');
 

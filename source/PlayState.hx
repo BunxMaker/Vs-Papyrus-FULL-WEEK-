@@ -6380,18 +6380,17 @@ class PlayState extends MusicBeatState
 					dad.addOffset("singLEFT", -24, 68);
 					dad.addOffset("singDOWN", 30, -126);
 
-					opponentStrums.forEach(function(spr:FlxSprite)
-						{
-							if (!ClientPrefs.middleScroll)
-								spr.x += 660;
-							// spr.x += 700;
-						});
-					playerStrums.forEach(function(spr:FlxSprite)
+					if (!ClientPrefs.middleScroll)
 					{
-						if (!ClientPrefs.middleScroll)
-							spr.x -= 600;
-						// spr.x -= 600;
-					});
+						for (i in 0...4)
+						{
+							var flipBOY:Array<Float> = [132, 244,356, 468];
+							var flipDAD:Array<Float> = [752, 864, 976, 1088];
+
+							opponentStrums.members[i].x = flipDAD[i];
+							playerStrums.members[i].x = flipBOY[i];
+						}
+					}
 
 					boyfriend.x = -270;
 
@@ -6404,18 +6403,19 @@ class PlayState extends MusicBeatState
 					//setPosition(BF_X + 200,BF_Y);
 					forceCamFollow(2, boyfriend, [0,-100]);
 					dad.x -= 70;
-					opponentStrums.forEach(function(spr:FlxSprite)
+
+					if (!ClientPrefs.middleScroll)
 						{
-							if (!ClientPrefs.middleScroll)
-								spr.x -= 660;
-							// spr.x += 700;
-						});
-					playerStrums.forEach(function(spr:FlxSprite)
-					{
-						if (!ClientPrefs.middleScroll)
-							spr.x += 600;
-						// spr.x -= 600;
-					});
+							for (i in 0...4)
+							{
+								var flipDAD:Array<Float> = [92, 204, 316, 428];
+								var flipBOY:Array<Float> = [732, 844, 956, 1068];
+	
+								opponentStrums.members[i].x = flipDAD[i];
+								playerStrums.members[i].x = flipBOY[i];
+							}
+						}
+
 				case 2711:
 					FlxTween.tween(FlxG.camera, {zoom:1.2}, 1, {ease: FlxEase.cubeOut});
 					forceCamFollow(1, boyfriend, [0, 0]);

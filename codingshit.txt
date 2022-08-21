@@ -1,0 +1,1 @@
+- Blaster note Bug (if you pause right when you hit the blaster note)
